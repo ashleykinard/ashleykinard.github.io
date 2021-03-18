@@ -24,6 +24,7 @@ MS Visual Studio Code, Atom, Swagger/Open API, Git Version Control, GitHub, GitL
 
 #### Technical Writer at [cPanel, L.L.C.](https://cpanel.net/)
 *Houston, Texas*
+
 DECEMBER 2016 — PRESENT
 
 *Produce high quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the [cPanel & WHM](https://cpanel.net/products/) product.*
@@ -55,6 +56,7 @@ DECEMBER 2016 — PRESENT
 
 #### Pipe & Tube QA Document Coordinator at DistributionNOW
 *Houston, Texas*
+
 2010 — DECEMBER 2016
 
 *Managed and maintained certified mill test report data in the company's quality assurance document database.*
@@ -69,6 +71,7 @@ DECEMBER 2016 — PRESENT
 
 #### Freelance Author at [Houston Press](https://www.houstonpress.com/)
 *Houston, Texas*
+
 2016
 
 * Developed "pitch" submissions for publication to editor for article approval.
