@@ -4,7 +4,7 @@ title: Ashley Kinard
 subtitle: Looking to make the tech world a user-friendly place, one document at a time.
 ---
 
-Hello, my name is Ashley Kinard. I am a human being, and a technical writer by trade.
+Hello, my name is Ashley Kinard. I am a human being, cat-lover, and a technical writer.
 
 I have a real passion for technical writing — particularly for the software industry. I have always enjoyed writing, but never considered a career of it until a friend clued me in on the career. Making a career out of something I enjoy? Sign me up!
 
@@ -16,3 +16,5 @@ I love working with developers, UI and UX designers, and quality assurance. I lo
 
 * [My resume](resume.md).
 * [My portfolio](portfolio.md).
+
+...and of course, the obligatory [cat-tax](/assets/img/sassyjack.jpg).
