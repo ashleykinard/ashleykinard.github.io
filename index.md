@@ -14,5 +14,5 @@ With this opportunity, my desire to continually develop my skills, both as a wri
 
 I love working with developers, UI and UX designers, and quality assurance. I love producing content for product users. I love formatting documents, creating API documentation, and digging through developer code. I love writing in Markdown, pushing and merging commits, and publishing content. I love working with other writers to collaborate and create great documentation.
 
-* [My resume](/resume.md).
-* [My portfolio](/portfolio.md).
+* [My resume](resume.md).
+* [My portfolio](portfolio.md).
