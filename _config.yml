@@ -14,6 +14,8 @@ author: Ashley Kinard
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Resume: "resume.md"
+  Portfolio: "portfolio.md"
   GitHub: "https://github.com/ashleykinard"
   GitLab: "https://gitlab.com/ashleymkinard"
 #  Author's home: "https://deanattali.com"

@@ -4,7 +4,11 @@ title: Resume
 subtitle: Writer based in Houston, Texas seeking opportunities to help improve technical documentation, one file at a time.
 ---
 
+<center>
+
 [Email](mailto:ashleymkinard@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ashleykinard/) / [Portfolio](/portfolio.md)
+
+</center>
 
 ### Key Skills
 

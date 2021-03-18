@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Portfolio
+title: Portfolio
 ---
 
 The following are samples of work I created and contributed to the [cPanel & WHM](https://www.cpanel.net) product:
