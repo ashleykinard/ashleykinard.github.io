@@ -27,7 +27,7 @@ MS Visual Studio Code, Atom, Swagger/Open API, Git Version Control, GitHub, GitL
 
 DECEMBER 2016 — PRESENT
 
-*Produce high quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the [cPanel & WHM](https://cpanel.net/products/) product.*
+*Produce high-quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the [cPanel & WHM](https://cpanel.net/products/) product.*
 
 * Work with a Scrum team to document all product features, improvements, and changes each release cycle, including:
   * Documenting features, release notes, and technical information for the product's customers.
