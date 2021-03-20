@@ -10,24 +10,24 @@ The following are samples of work I created and contributed to the [cPanel & WHM
 ### cPanel Linked Nodes Guide
 
 * [URL](https://docs.cpanel.net/knowledge-base/general-systems-administration/cpanel-linked-nodes-guide/)
-* [Markdown](cPanel-LinkedNodesGuide)
-* [PDF](cPanel-LinkedNodesGuide.pdf)
+* [Markdown](https://github.com/ashleykinard/samples/blob/origin/cPanel-LinkedNodesGuide)
+* [PDF](https://github.com/ashleykinard/samples/blob/origin/cPanel-LinkedNodesGuide.pdf)
 
 The creation of this particular guide was borne out of necessity to provide detailed information about cPanel's *Linked Nodes* feature to system administrators. The information was considered important, but did not have its place in any existing documentation, nor did it have a place in any related interface documentation.
 
 ### Guide to the Manage2 API
 
 * [URL](https://docs.cpanel.net/manage2/knowledge-base/guide-to-the-manage2-api/)
-* [Markdown](GuidetotheManage2API)
-* [PDF](GuidetotheManage2API.pdf)
+* [Markdown](https://github.com/ashleykinard/samples/blob/origin/GuidetotheManage2API)
+* [PDF](https://github.com/ashleykinard/samples/blob/origin/GuidetotheManage2API.pdf)
 
 This document describes the Manage2 API and its usage. This document required me to perform a substantial overhaul from its previous iteration on our old Confluence-based documentation.
 
 ### Manage2 API documentation
 
 * [URL](https://docs.cpanel.net/manage2/api/manage2-api-add-licenses/)
-* [Markdown](Manage2APIFunction-AddLicenses.pdf)
-* [PDF](Manage2APIFunctions-AddLicenses)
+* [Markdown](https://github.com/ashleykinard/samples/blob/origin/Manage2APIFunctions-AddLicenses)
+* [PDF](https://github.com/ashleykinard/samples/blob/origin/Manage2API%20Function-AddLicenses.pdf)
 
 This document outlines the Manage2 API *Add Licenses* function. Because our Manage2 API is not part of the cPanel & WHM product, we had to migrate this documentation to Hugo and create a specific format for its publication.
 
