@@ -9,7 +9,7 @@ The following are samples of work I created and contributed to the [cPanel & WHM
 
 ### cPanel Linked Nodes Guide
 
-* [URL](https://docs.cpanel.net/knowledge-base/general-systems-administration/cpanel-linked-nodes-guide/)
+* [Live URL](https://docs.cpanel.net/knowledge-base/general-systems-administration/cpanel-linked-nodes-guide/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/cPanel-LinkedNodesGuide)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/cPanel-LinkedNodesGuide.pdf)
 
@@ -17,14 +17,14 @@ The creation of this particular guide was borne out of necessity to provide deta
 
 ### DNS Zone Manager
 
-* [URL](https://docs.cpanel.net/whm/dns-functions/dns-zone-manager/)
+* [Live URL](https://docs.cpanel.net/whm/dns-functions/dns-zone-manager/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/DNSZoneManager)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/DNSZoneManager.pdf)
 
 This document describes WHM's *DNS Zone Manager* interface. I created the version 86 document and iterated on it for work done in version 96.
 ### Guide to the Manage2 API
 
-* [URL](https://docs.cpanel.net/manage2/knowledge-base/guide-to-the-manage2-api/)
+* [Live URL](https://docs.cpanel.net/manage2/knowledge-base/guide-to-the-manage2-api/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/GuidetotheManage2API)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/GuidetotheManage2API.pdf)
 
@@ -32,7 +32,7 @@ This document describes the Manage2 API and its usage. This document required me
 
 ### Manage2 API documentation
 
-* [URL](https://docs.cpanel.net/manage2/api/manage2-api-add-licenses/)
+* [Live URL](https://docs.cpanel.net/manage2/api/manage2-api-add-licenses/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/Manage2APIFunctions-AddLicenses)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/Manage2API%20Function-AddLicenses.pdf)
 
@@ -40,7 +40,11 @@ This document outlines the Manage2 API *Add Licenses* function. Because our Mana
 
 ### cPanel Tutorials — Mailing Lists Video
 
-* [URL](https://www.youtube.com/watch?v=Nmot-5sgdj4&t)
+<!-- blank line -->
+<figure class="video_container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Nmot-5sgdj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
 
 A sample of a tutorial video produced for cPanel's [Mailing Lists](https://docs.cpanel.net/cpanel/email/mailing-lists/) interface.
 
