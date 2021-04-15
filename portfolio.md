@@ -5,7 +5,7 @@ title: Portfolio
 
 ## Professional Portfolio
 
-The following are samples of work I created and contributed to the [cPanel & WHM](https://www.cpanel.net) product:
+The following are samples of work I edited or created to contribute to the [cPanel & WHM](https://www.cpanel.net) product:
 
 ### cPanel Linked Nodes Guide
 
@@ -15,7 +15,7 @@ The following are samples of work I created and contributed to the [cPanel & WHM
 
 The creation of this knowledge base article was borne out of necessity to provide detailed information about cPanel's *Linked Nodes* feature to system administrators. The information was considered important, but did not have its place in any existing documentation, nor did it have a place in any related interface documentation.
 
-### DNS Zone Manager
+### WHM DNS Zone Manager
 
 * [Live URL](https://docs.cpanel.net/whm/dns-functions/dns-zone-manager/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/DNSZoneManager)
@@ -30,6 +30,38 @@ This document describes WHM's *DNS Zone Manager* interface. I created the versio
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/ZoneEditor.pdf)
 
 This document is the cPanel interface equivalent of WHM's [*DNS Zone Manager*](#dns-zone-manager), with slight variations and a different user audience.
+
+### cPanel Email Deliverability
+
+* [Live URL](https://docs.cpanel.net/cpanel/email/email-deliverability-in-cpanel/)
+* [Markdown](https://github.com/ashleykinard/samples/blob/origin/EmailDeliverabilityincPanel)
+* [PDF](https://github.com/ashleykinard/samples/blob/origin/EmailDeliverabilityincPanel.pdf)
+
+This document details cPanel's *Email Deliverability* interface, which lets users troubleshoot and solve their mail-related DNS records.
+
+### cPanel Dynamic DNS
+
+* [Live URL](https://docs.cpanel.net/cpanel/domains/dynamic-dns/)
+* [Markdown](https://github.com/ashleykinard/samples/blob/origin/cPanel-DynamicDNS)
+* [PDF](https://github.com/ashleykinard/samples/blob/origin/cPanel-DynamicDNS.pdf)
+
+I revised this document after technical support received several tickets from cPanel users who were unclear what the intented purpose of this interface was. I worked with front and backend developers to better-clarify it and provide users with more clarity.
+
+### The balance_linked_node_quotas script documentation
+
+* [Live URL](https://docs.cpanel.net/whm/scripts/the-balance_linked_node_quotas-script/)
+* [Markdown](https://github.com/ashleykinard/samples/blob/origin/balance_linked_nodes_quota-script)
+* [PDF](https://github.com/ashleykinard/samples/blob/origin/balance_linked_node_quotas-script.pdf)
+
+This script outlines the `balance_linked_node_quotas` script and how to use it. This script was created as part of the work for [cPanel linked server nodes](#cpanel-linked-nodes-guide).
+
+### The sync_child_accounts script documentation
+
+* [Live URL](https://docs.cpanel.net/whm/scripts/the-sync_child_accounts-script/)
+* [Markdown](https://github.com/ashleykinard/samples/blob/origin/sync-child-node-script)
+* [PDF](https://github.com/ashleykinard/samples/blob/origin/sync-child-node-script.pdf)
+
+A script document for the `sync_child_accounts` script, also tied to the work for [cPanel linked server nodes](#cpanel-linked-nodes-guide).
 ### Guide to the Manage2 API
 
 * [Live URL](https://docs.cpanel.net/manage2/knowledge-base/guide-to-the-manage2-api/)
@@ -45,6 +77,21 @@ This document describes the Manage2 API and its usage. This document required me
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/Manage2API%20Function-AddLicenses.pdf)
 
 This document outlines the Manage2 API *Add Licenses* function. Because our Manage2 API is not part of the cPanel & WHM product, we had to migrate this documentation to Hugo and create a specific format for its publication.
+
+### Guide to API Privilege Escalation
+
+* [Markdown](https://github.com/ashleykinard/samples/blob/origin/GuidetoAPIPrivilegeEscalation-AdminModule)
+* [PDF](https://github.com/ashleykinard/samples/blob/origin/DD-GuidetoAPIPrivilegeEscalation-TheAdminModuleMethod.pdf)
+
+This document is intended for higher-level developer audiences. The developer drafted the initial document and I applied our style guide to it to make it fit. This was originally published via Confluence, but recently moved to a Markdown format as part of a documentation transition to allow this document to live alongside our [API documentation](https://api.docs.cpanel.net/).
+
+The Markdown version of this file is the formatted version of this document intended for our API documentation space.
+
+### WHM API 1 function Confluence document
+
+* [PDF](https://github.com/ashleykinard/samples/blob/origin/Confluence-WHMAPI1Functions-uapi_cpanel.pdf)
+
+A sample of a Confluence-based `uapi_cpanel` API function document I created.
 
 ### cPanel Tutorials — Mailing Lists Video
 
