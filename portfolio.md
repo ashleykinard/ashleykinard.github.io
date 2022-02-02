@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Portfolio
+title: Portfolio
 subtitle: Samples of documentation created through the course of my tech writing journey.
 ---
 
