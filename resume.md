@@ -18,9 +18,24 @@ Markdown, XML/HTML, RESTful APIs, API Design, Agile, JSON, YAML, Perl, Git, Git 
 
 #### Tools
 
-MS Visual Studio Code, Atom, Swagger/Open API, Git Version Control, GitHub, GitLab, Linux, BitBucket, Atlassian JIRA, Atlassian Confluence, Mac OS, Microsoft Windows OS, Adobe Photoshop, Camtasia, Pixelmator, Slack Software, Zoom Software
+MS Visual Studio Code, Atom, Swagger/Open API, Postman, Git Version Control, GitHub, GitLab, Linux, BitBucket, Atlassian JIRA, Atlassian Confluence, Mac OS, Microsoft Windows OS, Adobe Photoshop, Camtasia, Pixelmator, Slack Software, Zoom Software
 
 ### Experience
+
+#### Technical Writer at [Zoom, Inc.](https://zoom.us/)
+*Remote*
+
+MAY 2021 — PRESENT
+
+*Create and edit developer-facing documentation for Zoom's various API offerings. Work with other writers, engineering, and developer advocates to document API improvements and enhancements for monthly releases.*
+
+* Documenting new APIs (OpenAPI) and webhooks.
+* Creating release notes and additional technical communications or documentation.
+* Reviewing and continually improving the API documentation.
+* Review engineering merge requests to ensure the proposed changes or additions are technically accurate and clear.
+* Provide user-driven feedback during engineering review.
+* Reviewing and improving existing developer documentation.
+* Collaborating with the developer relations team to continually improve our existing developer documentation to ensure that it is clear to its intended audience.
 
 #### Technical Writer at [cPanel, L.L.C.](https://cpanel.net/)
 *Houston, Texas*
