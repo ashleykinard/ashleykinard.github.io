@@ -29,12 +29,13 @@ MAY 2021 — PRESENT
 
 *Create and edit developer-facing documentation for Zoom's various API offerings. Work with other writers, engineering, and developer advocates to document API improvements and enhancements for monthly releases.*
 
-* Documenting new APIs (OpenAPI) and webhooks.
-* Creating release notes and additional technical communications or documentation.
-* Reviewing and continually improving the API documentation.
-* Review engineering merge requests to ensure the proposed changes or additions are technically accurate and clear.
+* Lead the Developer Documentation department API (OpenAPI) and webhooks documentation efforts.
+* Reviewing and continually improving the existing API documentation presentation and schema formatting.
+* Review and approve engineering merge requests.
+* Continually ensure proposed changes or additions to the API documentation are technically accurate and clear.
 * Provide user-driven feedback during engineering review.
-* Reviewing and improving existing developer documentation.
+* Creating release notes and additional technical communications or documentation, including working with Product Managers and Marketing to announce changes.
+* Reviewing and improving existing developer documentation (non API).
 * Collaborating with the developer relations team to continually improve our existing developer documentation to ensure that it is clear to its intended audience.
 
 #### Technical Writer at [cPanel, L.L.C.](https://cpanel.net/)
@@ -44,19 +45,19 @@ DECEMBER 2016 — PRESENT
 
 *Produce high-quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the [cPanel & WHM](https://cpanel.net/products/) product.*
 
-* Work with a Scrum team to document all product features, improvements, and changes each release cycle, including:
+* Worked with a Scrum team to document all product features, improvements, and changes each release cycle, including:
   * Documenting features, release notes, and technical information for the product's customers.
   * Creating quick guides for cPanel technical support and training teams.
   * Reviewing code and new or modified strings for localized text.
   * Reviewing [API documentation](https://api.docs.cpanel.net/) to ensure they meet cPanel's style guide standards.
-  * Review developer merge requests to verify whether any changes require documentation review.
-  * Work closely with the developers and quality assurance analysts to ensure proposed documentation is technically accurate before documentation peer review.
-  * Provide user-driven feedback during development discussion and feature planning.
-* Work with the technical support team to maintain and update any incorrect or outdated published documentation.
-* Review and revise existing documentation to ensure they meet cPanel's style guide standards.
-* Collaborate and facilitate the review of cPanel's style guide on a regular basis.
-* Peer review other writers' work to ensure it meets cPanel's style guide standards.
-* Create tutorial video content.
+  * Reviewing developer merge requests to verify whether any changes require documentation review.
+  * Working closely with the developers and quality assurance analysts to ensure proposed documentation is technically accurate before documentation peer review.
+  * Providing user-driven feedback during development discussion and feature planning.
+* Worked with the technical support team to maintain and update any incorrect or outdated published documentation.
+* Reviewed and revise existing documentation to ensure they meet cPanel's style guide standards.
+* Collaborated and facilitated the review of cPanel's style guide on a regular basis.
+* Peer reviewed other writers' work to ensure it meets cPanel's style guide standards.
+* Created tutorial video content.
 
 #### Pipe & Tube QA Document Coordinator at DistributionNOW
 *Houston, Texas*
