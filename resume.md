@@ -1,10 +1,8 @@
----
-layout: page
-title: Resume
-subtitle: Writer based in Houston, Texas seeking opportunities to help improve technical documentation, one file at a time.
----
+## Ashley Kinard
 
-[Email](mailto:ashleymkinard@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ashleykinard/) / [Portfolio](/portfolio.md)
+*Writer based in Houston, Texas seeking opportunities to help improve technical documentation, one file at a time.*
+
+[Email](mailto:ashleymkinard@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ashleykinard/) / [Portfolio](https://ashleykinard.pro/portfolio/)
 
 ### Key Skills
 
@@ -58,17 +56,6 @@ DECEMBER 2016 — PRESENT
 * Peer review other writers' work to ensure it meets cPanel's style guide standards.
 * Create tutorial video content.
 
-##### Accomplishments
-
-* Participated in the migration of cPanel's [Confluence](https://www.atlassian.com/software/confluence)-based documentation to [Hugo](https://gohugo.io/)-based documentation. This project included converting, formatting, and refactoring document presentation for all of our published documents.
-* Highly-involved in the conversion project of our Confluence-based API documentation to [OpenAPI](https://swagger.io/)-style documentation. Work in this project involved:
-  * Converting existing documentation to the OpenAPI format and ensuring that the information was accurate and properly migrated to the new format.
-  * Peer reviewing others' pull requests in the project.
-  * Working as a project Subject Matter Expert (SME) to provide help and guidance to others.
-  * Participating in discussions about the cPanel style guide for OpenAPI document formatting.
-  * Reviewing and merging finalized files to the project repository.
-* Managed converting the [Manage2](https://docs.cpanel.net/knowledge-base/cpanel-product/cpanel-glossary#manage2) developer and API documentation to Hugo. This solo project involved creating a directory framework to house the documents in and also revising the existing documentation format.
-
 #### Pipe & Tube QA Document Coordinator at DistributionNOW
 *Houston, Texas*
 
@@ -97,5 +84,5 @@ DECEMBER 2016 — PRESENT
 
 ### Education and Training
 
-* *Technical Writing Certification* — [Bellevue College](https://www.bellevuecollege.edu/), 2016
-* *Bachelor of Arts, Criminal Justice* — [Sam Houston State University](https://www.shsu.edu/), 2008
+* *Technical Writing Certification* - [Bellevue College](https://www.bellevuecollege.edu/), 2016
+* *Bachelor of Arts, Criminal Justice* - [Sam Houston State University](https://www.shsu.edu/), 2008
