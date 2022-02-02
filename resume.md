@@ -38,7 +38,7 @@ MAY 2021 — PRESENT
 * Reviewing and improving existing developer documentation (non API).
 * Collaborating with the developer relations team to continually improve our existing developer documentation to ensure that it is clear to its intended audience.
 
-#### Technical Writer at [cPanel, L.L.C.](https://cpanel.net/)
+#### Senior Technical Writer at [cPanel, L.L.C.](https://cpanel.net/)
 *Houston, Texas*
 
 DECEMBER 2016 — PRESENT
