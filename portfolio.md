@@ -1,5 +1,3 @@
-# Professional Portfolio
-
 ## Zoom
 
 The following are samples of documentation created or contributed to for [Zoom](https://zoom.us/):
