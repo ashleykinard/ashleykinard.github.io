@@ -63,7 +63,7 @@ This document details cPanel's *Email Deliverability* interface, which lets user
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/cPanel-DynamicDNS)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/cPanel-DynamicDNS.pdf)
 
-I revised this document after technical support received several tickets from cPanel users who were unclear what the intented purpose of this interface was. I worked with front and backend developers to better-clarify it and provide users with more clarity.
+I revised this document after technical support received several tickets from cPanel users who were unclear what the intended purpose of this interface was. I worked with front and backend developers to better-clarify it and provide users with more clarity.
 
 ### The balance_linked_node_quotas script documentation
 
