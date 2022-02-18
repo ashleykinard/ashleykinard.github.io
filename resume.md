@@ -59,19 +59,6 @@ DECEMBER 2016 — PRESENT
 * Peer reviewed other writers' work to ensure it meets cPanel's style guide standards.
 * Created tutorial video content.
 
-#### Pipe & Tube QA Document Coordinator at DistributionNOW
-*Houston, Texas*
-
-2010 — DECEMBER 2016
-
-*Managed and maintained certified mill test report data in the company's quality assurance document database.*
-
-* Assisted internal customers with the receipt of documentation.
-* Investigated and resolved all issues with missing documentation.
-* Supported department sourcing specialists teams.
-* Managed and maintained all department manifest documentation, records, and files for materials on all inbound vessels.
-* Assisted the logistics team with day-to-day operations, including coordination between internal customers and freight forwarders.
-
 ### Freelance Projects
 
 #### Freelance Author at [Houston Press](https://www.houstonpress.com/)
