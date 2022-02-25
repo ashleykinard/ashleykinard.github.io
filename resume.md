@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Ashley Kinard — Resume
 subtitle: Writer based in Houston, Texas seeking opportunities to help improve technical documentation, one file at a time.
 ---
 
