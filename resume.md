@@ -41,7 +41,7 @@ MAY 2021 — PRESENT
 #### Senior Technical Writer at [cPanel, L.L.C.](https://cpanel.net/)
 *Houston, Texas*
 
-DECEMBER 2016 — PRESENT
+DECEMBER 2016 — MAY 2021
 
 *Produce high-quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the [cPanel & WHM](https://cpanel.net/products/) product.*
 
