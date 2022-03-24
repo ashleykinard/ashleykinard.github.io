@@ -14,11 +14,11 @@ Communication, Software Documentation, Critical Analysis, Problem Analysis and S
 
 #### Technical
 
-Markdown, XML/HTML, RESTful APIs, API Design, Agile, JSON, YAML, Perl, Git, Git Bash, Video Capture/Editing, Audio Recording/Editing
+Markdown, RESTful APIs, API Design, OpenAPI Specification (OAS), GraphQL, JSON, YAML, Perl, XML/HTML/CSS, Git, Git Bash, Command Line Interface, Agile, Video and Audio Recording/Editing
 
 #### Tools
 
-MS Visual Studio Code, Atom, Swagger/Open API, Postman, Git Version Control, GitHub, GitLab, Linux, BitBucket, Atlassian JIRA, Atlassian Confluence, Mac OS, Microsoft Windows OS, Adobe Photoshop, Camtasia, Pixelmator, Slack Software, Zoom Software
+MS Visual Studio Code, Swagger Editor, Postman, Git Version Control, GitHub, GitLab, Linux, BitBucket, Static Site Generators, Atlassian JIRA, Atlassian Confluence, Mac OS, Microsoft Windows OS, Adobe Photoshop, Camtasia, Pixelmator, Slack Software, Zoom Software
 
 ### Experience
 
