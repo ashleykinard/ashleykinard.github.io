@@ -8,7 +8,7 @@ subtitle: Samples of documentation created through the course of my tech writing
 
 The following are samples of documentation created or contributed to for [Zoom](https://zoom.us/):
 
-### Developer Realtions department style guide
+### Developer Relations department style guide
 
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/DevRelStyleGuide.pdf)
 
