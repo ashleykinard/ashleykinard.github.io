@@ -22,21 +22,34 @@ MS Visual Studio Code, Swagger Editor, Postman, Git Version Control, GitHub, Git
 
 ### Experience
 
-#### Technical Writer at [Zoom, Inc.](https://zoom.us/)
+#### Technical Writer at [Postman](https://postman.com/)
 *Remote*
 
 MAY 2021 — PRESENT
 
+*Create and maintain developer documentation for Postman's API. Work closely with the Postman API engineering team to help ensure product is well-documented for its developer audience.*
+
+* Maintain and update Postman's current [public API collection](https://www.postman.com/postman/workspace/postman-public-workspace/collection/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a?ctx=documentation) and [API definition](https://www.postman.com/postman/workspace/postman-public-workspace/api/72a32ca3-f06a-4e83-a933-2821a0e6616f/definition/d429098b-1789-4c62-b77b-cf02024aba53?view=documentation).
+* Review the engineering team's work for documentation review, such as string reviews and internal documentation.
+* Work with other engineering departments to review their API documentation and provide constructive feedback for improvement.
+* Review and improve the team's internal documentation for clarity and consistency.
+* Work closely with OpenAPI definition files to improve structure and clarity for developers.
+
+#### Technical Writer at [Zoom, Inc.](https://zoom.us/)
+*Remote*
+
+MAY 2021 — April 2022
+
 *Create and edit developer-facing documentation for Zoom's various API offerings. Work with other writers, engineering, and developer advocates to document API improvements and enhancements for monthly releases.*
 
-* Lead the Developer Documentation department API (OpenAPI) and webhooks documentation efforts.
-* Reviewing and continually improving the existing API documentation presentation and schema formatting.
-* Review and approve engineering merge requests.
-* Continually ensure proposed changes or additions to the API documentation are technically accurate and clear.
-* Provide user-driven feedback during engineering review.
-* Creating release notes and additional technical communications or documentation, including working with Product Managers and Marketing to announce changes.
-* Reviewing and improving existing developer documentation (non API).
-* Collaborating with the developer relations team to continually improve our existing developer documentation to ensure that it is clear to its intended audience.
+* Led the Developer Documentation department API (OpenAPI) and webhooks documentation efforts.
+* Reviewed and improved the existing API documentation presentation and schema formatting.
+* Reviewed and approved engineering merge requests.
+* Ensure proposed changes or additions to the API documentation were technically accurate and clear.
+* Provided user-driven feedback during engineering review.
+* Created release notes and additional technical communications or documentation, including working with Product Managers and Marketing to announce changes.
+* Reviewed and improved existing developer documentation (non-API).
+* Collaborated with the developer relations team to continually improve our existing developer documentation to ensure that it was clear to its intended audience.
 
 #### Senior Technical Writer at [cPanel, L.L.C.](https://cpanel.net/)
 *Houston, Texas*
