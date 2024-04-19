@@ -25,7 +25,7 @@ MS Visual Studio Code, Swagger Editor, Postman, Git Version Control, GitHub, Git
 #### Technical Writer at [Postman](https://postman.com/)
 *Remote*
 
-MAY 2021 — PRESENT
+APRIL 2021 — PRESENT
 
 *Create and maintain developer documentation for Postman's API. Work closely with the Postman API engineering team to help ensure product is well-documented for its developer audience.*
 
@@ -38,7 +38,7 @@ MAY 2021 — PRESENT
 #### Technical Writer at [Zoom, Inc.](https://zoom.us/)
 *Remote*
 
-MAY 2021 — April 2022
+MAY 2021 — APRIL 2022
 
 *Create and edit developer-facing documentation for Zoom's various API offerings. Work with other writers, engineering, and developer advocates to document API improvements and enhancements for monthly releases.*
 
