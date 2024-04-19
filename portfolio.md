@@ -4,6 +4,13 @@ title: Portfolio
 subtitle: Samples of documentation created through the course of my tech writing journey.
 ---
 
+## Postman
+
+The following are samples of documentation maintained for [Postman](https://www.postman.com/):
+
+* [Postman API Collection](https://www.postman.com/postman/workspace/postman-public-workspace/collection/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a)
+* [Postman API OAS](https://www.postman.com/postman/workspace/postman-public-workspace/api/72a32ca3-f06a-4e83-a933-2821a0e6616f/definition/024624cf-e622-4836-9d19-efd067f6cbdb?version=8843afee-0e46-497d-b6b4-d95870ba2a24&view=documentation)
+
 ## Zoom
 
 The following are samples of documentation created or contributed to for [Zoom](https://zoom.us/):
@@ -122,7 +129,5 @@ A sample of a tutorial video produced for cPanel's [Mailing Lists](https://docs.
 
 The following are sample documents created as part of this professional portfolio:
 
-* [AddLicense API](https://app.swaggerhub.com/apis/ashleykinard/addlicense/1.0.0) - An OpenAPI mockup of an *Add License* API document.
-* [GetLicense API](https://app.swaggerhub.com/apis/ashleykinard/getlicense/1.0.0#/default/getLicense) - An OpenAPI mockup of a *Get License* API document.
-* [RemoveLicense API](https://app.swaggerhub.com/apis/ashleykinard/removelicense/1.0.0) - An OpenAPI mockup of a *Remove License* API document.
+* [Mock Accounts API](https://ashleykinard.pro/sample-api/) - An OpenAPI mockup of an account management API document.
 * [Logging Your Shift in Workday](https://github.com/ashleykinard/samples/blob/origin/WorkdaySample.pdf) - A mockup of using the *Workday* software to log a shift.
