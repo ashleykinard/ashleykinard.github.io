@@ -8,8 +8,8 @@ subtitle: Samples of documentation created through the course of my tech writing
 
 The following are samples of documentation maintained for [Postman](https://www.postman.com/):
 
-* [Postman API Collection](https://www.postman.com/postman/workspace/postman-public-workspace/collection/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a)
-* [Postman API OAS](https://www.postman.com/postman/workspace/postman-public-workspace/api/72a32ca3-f06a-4e83-a933-2821a0e6616f/definition/024624cf-e622-4836-9d19-efd067f6cbdb?version=8843afee-0e46-497d-b6b4-d95870ba2a24&view=documentation)
+* [Postman API Collection](https://www.postman.com/postman/postman-public-workspace/collection/i2uqzpp/postman-api)
+* [Postman API OAS](https://www.postman.com/postman/postman-public-workspace/specification/3001f4e4-5f9d-4bac-9f57-b2c4d483508f/file/1f4ad1bf-697f-4be6-a167-dc1f3cf2abf2?ctx=preview)
 
 ## Zoom
 
@@ -34,7 +34,6 @@ The following are samples of work I edited or created to contribute to the [cPan
 
 ### cPanel Linked Nodes Guide
 
-* [URL](https://docs.cpanel.net/knowledge-base/general-systems-administration/cpanel-linked-nodes-guide/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/cPanel-LinkedNodesGuide)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/cPanel-LinkedNodesGuide.pdf)
 
@@ -42,7 +41,6 @@ The creation of this particular guide was borne out of necessity to provide deta
 
 ### WHM DNS Zone Manager
 
-* [URL](https://docs.cpanel.net/whm/dns-functions/dns-zone-manager/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/DNSZoneManager)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/DNSZoneManager.pdf)
 
@@ -50,7 +48,6 @@ This document describes WHM's *DNS Zone Manager* interface. I created the versio
 
 ### cPanel Zone Manager
 
-* [Live URL](https://docs.cpanel.net/cpanel/domains/zone-editor/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/ZoneEditor)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/ZoneEditor.pdf)
 
@@ -58,7 +55,6 @@ This document is the cPanel interface equivalent of WHM's [*DNS Zone Manager*](#
 
 ### cPanel Email Deliverability
 
-* [Live URL](https://docs.cpanel.net/cpanel/email/email-deliverability-in-cpanel/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/EmailDeliverabilityincPanel)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/EmailDeliverabilityincPanel.pdf)
 
@@ -66,7 +62,6 @@ This document details cPanel's *Email Deliverability* interface, which lets user
 
 ### cPanel Dynamic DNS
 
-* [Live URL](https://docs.cpanel.net/cpanel/domains/dynamic-dns/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/cPanel-DynamicDNS)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/cPanel-DynamicDNS.pdf)
 
@@ -74,7 +69,6 @@ I revised this document after technical support received several tickets from cP
 
 ### The balance_linked_node_quotas script documentation
 
-* [Live URL](https://docs.cpanel.net/whm/scripts/the-balance_linked_node_quotas-script/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/balance_linked_nodes_quota-script)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/balance_linked_node_quotas-script.pdf)
 
@@ -82,7 +76,6 @@ This script outlines the `balance_linked_node_quotas` script and how to use it. 
 
 ### The sync_child_accounts script documentation
 
-* [Live URL](https://docs.cpanel.net/whm/scripts/the-sync_child_accounts-script/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/sync-child-node-script)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/sync-child-node-script.pdf)
 
@@ -90,7 +83,6 @@ A script document for the `sync_child_accounts` script, also tied to the work fo
 
 ### Guide to the Manage2 API
 
-* [URL](https://docs.cpanel.net/manage2/knowledge-base/guide-to-the-manage2-api/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/GuidetotheManage2API)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/GuidetotheManage2API.pdf)
 
@@ -98,7 +90,6 @@ This document describes the Manage2 API and its usage. This document required me
 
 ### Manage2 API documentation
 
-* [URL](https://docs.cpanel.net/manage2/api/manage2-api-add-licenses/)
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/Manage2APIFunction-AddLicenses)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/Manage2APIFunctions-AddLicenses.pdf)
 
@@ -118,12 +109,6 @@ The Markdown version of this file is the formatted version of this document inte
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/Confluence-WHMAPI1Functions-uapi_cpanel.pdf)
 
 A sample of a Confluence-based `uapi_cpanel` API function document I created.
-
-### cPanel Tutorials - Mailing Lists Video
-
-* [URL](https://www.youtube.com/watch?v=Nmot-5sgdj4&t)
-
-A sample of a tutorial video produced for cPanel's [Mailing Lists](https://docs.cpanel.net/cpanel/email/mailing-lists/) interface.
 
 ## Other Sample Work
 
