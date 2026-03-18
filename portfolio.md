@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-subtitle: Samples of documentation created through the course of my tech writing journey.
+subtitle: Samples of the documentation created through the course of my tech writing journey.
 ---
 
 ## Postman
