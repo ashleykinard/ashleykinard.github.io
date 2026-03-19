@@ -1,77 +1,92 @@
 :root {
-  /* Core Brand Color */
-  --brand-orange: #FF9300;     
-  --brand-hover: #E68500;      /* Slightly darker for interaction */
-  
-  /* Neutral Palette */
-  --bj-text: #404040;          /* Professional Grey-Black */
-  --bj-border: #DDDDDD;        /* Subtle dividers */
-  --bj-white: #FFFFFF;
+  --brand-orange: #FF9300;
+  --brand-hover: #E68500;
+  --text-dark: #404040;
+  --border-light: #DDDDDD;
 }
 
-/* --- Force Navbar and Footer to Brand Orange --- */
-.navbar-custom, 
-.main-footer {
-  background-color: var(--brand-orange) !important;
-  border-color: var(--brand-orange) !important;
+/* --- Layout Containers --- */
+.portfolio-grid { 
+  display: flex; 
+  flex-direction: column;
+  gap: 25px; 
+  margin: 20px 0;
+  width: 100%;
 }
 
-/* Ensure text in Navbar and Footer stays white against the orange */
-.navbar-custom .navbar-brand, 
-.navbar-custom .nav-link, 
-.main-footer, 
-.main-footer a {
-  color: #FFFFFF !important;
-}
-
-/* --- Project and Skill Cards --- */
 .project-card { 
-  background: var(--bj-white);
-  padding: 25px; 
-  border: 1px solid var(--bj-border); 
-  border-left: 6px solid var(--brand-orange) !important; /* Thick brand accent */
+  display: block;
+  background: #FFFFFF !important;
+  padding: 25px !important; 
+  border: 1px solid var(--border-light) !important; 
+  border-left: 6px solid var(--brand-orange) !important; 
   border-radius: 4px; 
-  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: all 0.2s ease-in-out;
+  position: relative;
 }
 
 .project-card:hover { 
-  border-color: var(--brand-orange);
-  box-shadow: 0 10px 20px rgba(255, 147, 0, 0.15); /* Orange-tinted shadow */
-  transform: translateY(-3px); 
+  transform: translateY(-2px);
+  box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+  border-color: var(--brand-orange) !important;
+}
+
+/* --- Typography Inside Cards --- */
+.project-card h3.project-title { 
+  margin: 0 0 10px 0 !important; 
+  color: var(--text-dark) !important; 
+  font-weight: 800 !important;
+  border: none !important; /* Removes theme default underlines */
+}
+
+.project-desc { 
+  color: var(--text-dark); 
+  font-size: 0.95em;
+  line-height: 1.6;
+  margin-bottom: 20px;
 }
 
 /* --- Skill Tags --- */
+.tag-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 15px;
+}
+
 .tag { 
-  background: #FFF9F2; /* Very faint orange tint instead of cold gray */
-  color: var(--bj-text); 
-  padding: 4px 10px; 
-  border: 1px solid #FFE0B3; /* Soft orange border */
-  border-radius: 3px; 
-  font-size: 0.75em; 
-  font-weight: 700; 
+  background: #f8f9fa !important;
+  color: var(--text-dark) !important; 
+  padding: 4px 10px !important; 
+  border: 1px solid var(--border-light) !important;
+  border-radius: 3px !important; 
+  font-size: 0.7em !important; 
+  font-weight: 700 !important; 
   text-transform: uppercase; 
 }
 
-/* --- Buttons --- */
+/* --- Brand Buttons --- */
 .btn-link { 
-  display: inline-block; 
+  display: inline-block !important; 
   background: var(--brand-orange) !important; 
   color: #FFFFFF !important; 
-  padding: 10px 22px; 
-  border-radius: 4px; 
-  font-size: 0.85em; 
-  font-weight: bold; 
+  padding: 10px 20px !important; 
+  border-radius: 4px !important; 
+  font-size: 0.85em !important; 
+  font-weight: bold !important; 
   text-decoration: none !important; 
-  transition: background 0.2s;
+  border: none !important;
 }
 
 .btn-link:hover { 
-  background: var(--brand-hover) !important; 
+  background: var(--brand-hover) !important;
+  color: #FFFFFF !important;
 }
 
 /* --- Section Dividers --- */
 .section-hr { 
-  margin: 40px 0; 
-  border: 0; 
-  border-top: 2px solid var(--bj-border); 
+  border: 0 !important;
+  border-top: 2px solid var(--border-light) !important;
+  margin: 40px 0 !important;
 }
