@@ -99,6 +99,11 @@ feed_show_tags: true
 css:
   - "/assets/css/custom.css"
 
+navbar-col: "#FF9300"
+footer-col: "#FF9300"
+navbar-text-col: "#FFFFFF"
+footer-text-col: "#FFFFFF"
+
 #navbar-col: "#FF9300"
 #navbar-text-col: "#FFFFFF"
 #navbar-border-col: "#DDDDDD"

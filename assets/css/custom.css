@@ -1,77 +1,77 @@
 :root {
-  /* Your Fixed Brand Colors */
-  --brand-orange: #FF9300;     /* Primary Brand Accent */
-  --brand-orange-soft: rgba(255, 147, 0, 0.1); /* For subtle hover backgrounds */
+  /* Core Brand Color */
+  --brand-orange: #FF9300;     
+  --brand-hover: #E68500;      /* Slightly darker for interaction */
   
-  /* Theme-Neutral Colors (Standard BJ) */
-  --text-main: #404040;        /* Main Body Text */
-  --link-blue: #008AFF;        /* Standard Links */
-  --link-hover: #006CFF;       /* Hover State */
-  --border-light: #DDDDDD;     /* Standard subtle lines */
-  --bg-page: #FFFFFF;          /* Background */
-  
-  /* UI Logic */
-  --card-shadow: rgba(0, 0, 0, 0.08);
-  --transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  /* Neutral Palette */
+  --bj-text: #404040;          /* Professional Grey-Black */
+  --bj-border: #DDDDDD;        /* Subtle dividers */
+  --bj-white: #FFFFFF;
+}
+
+/* --- Force Navbar and Footer to Brand Orange --- */
+.navbar-custom, 
+.main-footer {
+  background-color: var(--brand-orange) !important;
+  border-color: var(--brand-orange) !important;
+}
+
+/* Ensure text in Navbar and Footer stays white against the orange */
+.navbar-custom .navbar-brand, 
+.navbar-custom .nav-link, 
+.main-footer, 
+.main-footer a {
+  color: #FFFFFF !important;
 }
 
 /* --- Project and Skill Cards --- */
 .project-card { 
-  background: var(--bg-page);
+  background: var(--bj-white);
   padding: 25px; 
-  border: 1px solid var(--border-light); 
-  border-left: 5px solid var(--brand-orange); /* This keeps your brand orange prominent */
+  border: 1px solid var(--bj-border); 
+  border-left: 6px solid var(--brand-orange) !important; /* Thick brand accent */
   border-radius: 4px; 
-  transition: all var(--transition);
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 }
 
 .project-card:hover { 
   border-color: var(--brand-orange);
-  box-shadow: 0 10px 25px var(--card-shadow); 
-  transform: translateY(-4px); 
+  box-shadow: 0 10px 20px rgba(255, 147, 0, 0.15); /* Orange-tinted shadow */
+  transform: translateY(-3px); 
 }
 
-/* --- Tags (Skills) --- */
+/* --- Skill Tags --- */
 .tag { 
-  background: var(--bg-page); 
-  color: var(--text-main); 
-  padding: 4px 12px; 
-  border: 1px solid var(--border-light);
-  border-radius: 4px; 
+  background: #FFF9F2; /* Very faint orange tint instead of cold gray */
+  color: var(--bj-text); 
+  padding: 4px 10px; 
+  border: 1px solid #FFE0B3; /* Soft orange border */
+  border-radius: 3px; 
   font-size: 0.75em; 
   font-weight: 700; 
   text-transform: uppercase; 
-  letter-spacing: 0.5px;
-  display: inline-block;
-  transition: border-color 0.2s;
 }
 
-.tag:hover {
-  border-color: var(--brand-orange);
-  color: var(--brand-orange);
-}
-
-/* --- Global Portfolio/Index Buttons --- */
+/* --- Buttons --- */
 .btn-link { 
   display: inline-block; 
-  background: var(--brand-orange); /* Set your primary buttons to your brand orange */
+  background: var(--brand-orange) !important; 
   color: #FFFFFF !important; 
   padding: 10px 22px; 
   border-radius: 4px; 
   font-size: 0.85em; 
-  font-weight: 800; 
+  font-weight: bold; 
   text-decoration: none !important; 
-  transition: background var(--transition), transform 0.1s;
+  transition: background 0.2s;
 }
 
 .btn-link:hover { 
-  background: #E68500; /* A slightly deeper orange for the hover state */
-  transform: scale(1.02);
+  background: var(--brand-hover) !important; 
 }
 
-/* --- Clean Section Breaks --- */
+/* --- Section Dividers --- */
 .section-hr { 
   margin: 40px 0; 
   border: 0; 
-  border-top: 1px solid var(--border-light); 
+  border-top: 2px solid var(--bj-border); 
 }
