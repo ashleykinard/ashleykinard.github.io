@@ -20,8 +20,6 @@ permalink: /portfolio/
 
 The following is a curated look at my work, focusing on **Developer Experience (DX)**, **API Reference**, and **Systems Documentation**.
 
-<hr class="section-hr">
-
 ## API Documentation and Developer Experience
 
 *High-level documentation for global developer ecosystems.*
@@ -52,8 +50,6 @@ The following is a curated look at my work, focusing on **Developer Experience (
 
 </div>
 
-<hr class="section-hr">
-
 ## Technical Guides and Tutorials
 
 *End-user and administrator-facing documentation for complex server software.*
@@ -83,8 +79,6 @@ The following is a curated look at my work, focusing on **Developer Experience (
   </div>
 
 </div>
-
-<hr class="section-hr">
 
 ## Process and Governance
 
