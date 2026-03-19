@@ -4,11 +4,11 @@ title: Ashley Kinard
 subtitle: Helping to bridge the gap between complex engineering and user success.
 ---
 
-<div style="margin: 20px 0; display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="portfolio.md" style="background: #007bff; color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 0.9em;">📁 Portfolio</a>
-  <a href="https://github.com/ashleykinard" style="background: #333; color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 0.9em;">💻 GitHub</a>
-  <a href="https://linkedin.com/in/ashleykinard" style="background: #0077b5; color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 0.9em;">👔 LinkedIn</a>
-  <a href="mailto:ashleymkinard@gmail.com" style="background: #fbbc05; color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; font-weight: bold; font-size: 0.9em;">✉️ Email</a>
+<div style="margin: 30px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <a href="/portfolio/" style="background: #2c3e50; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: 0.3s;">📁 PORTFOLIO</a>
+  <a href="https://github.com/ashleykinard" style="background: #4a5568; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: 0.3s;">💻 GITHUB</a>
+  <a href="https://linkedin.com/in/ashleykinard" style="background: #0077b5; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: 0.3s;">👔 LINKEDIN</a>
+  <a href="mailto:ashleymkinard@gmail.com" style="background: #e2e8f0; color: #2d3748; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: 0.3s;">✉️ EMAIL</a>
 </div>
 
 ---
@@ -29,8 +29,6 @@ I am a **Technical Writer** specializing in **Docs-as-Code** environments and **
 | **Developer Tools** | Command Line (Bash/Zsh), VS Code, JSON, YAML |
 | **Project Management** | Jira, Confluence, Agile/Scrum Methodologies |
 | **Content Quality** | Vale (Style Linting), Agent and LLM-assisted drafting |
-
-<br>
 
 > **Documentation is a product.** I believe in a Docs-as-Code approach that integrates seamlessly into the engineering lifecycle. By using version control, automated style linting, and collaborative peer reviews, I ensure that documentation is as reliable, scalable, and tested as the software itself.
 
