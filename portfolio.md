@@ -30,7 +30,6 @@ The following is a curated look at my work, focusing on **Developer Experience (
       <a href="https://www.postman.com/postman/postman-public-workspace/specification/3001f4e4-5f9d-4bac-9f57-b2c4d483508f/file/1f4ad1bf-697f-4be6-a167-dc1f3cf2abf2?ctx=preview" class="btn-link" target="_blank">Public API OAS</a>
       <a href="https://github.com/ashleykinard/samples/blob/origin/postmanApiOverview.md" class="btn-link" target="_blank">Overview Snapshot</a>
       <a href="https://github.com/ashleykinard/samples/blob/origin/postmanMcpRemoteServer.md" class="btn-link" target="_blank">Remote MCP Guide</a>
-      <a href="https://github.com/ashleykinard/samples/blob/origin/postmanMcpLocalServer.md" class="btn-link" target="_blank">Local MCP Guide Snapshot</a>
     </div>
   </div>
 
@@ -127,3 +126,18 @@ The following is a curated look at my work, focusing on **Developer Experience (
   </div>
 
 </div>
+
+<style>
+  .snapshot-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px; /* Set horizontal and vertical space between all buttons */
+    margin-top: 15px; /* Add space below project description */
+  }
+
+  /* Reset existing margins if they exist to prevent interference */
+  .snapshot-links .btn-link {
+    margin: 0 !important;
+    display: inline-block;
+  }
+</style>
