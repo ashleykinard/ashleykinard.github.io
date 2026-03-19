@@ -109,7 +109,12 @@ I view documentation as a high-value product, not an afterthought. My workflow i
 
 ## The Human
 
-<img alt="The Editor in Chief Jack" src="/assets/img/sassyjack.jpg" align="right" width="150" style="border-radius: 50%; margin-left: 20px; border: 3px solid var(--border-light);">
+<div class="profile-container">
+  <img alt="The Editor in Chief Jack" src="/assets/img/sassyjack.jpg" class="profile-img">
+  <div class="overlay">
+    <div class="text">Jack</div>
+  </div>
+</div>
 
 When I'm not deep in Markdown or API specifications, you'll find me engaged in systems-thinking hobbies, such as:
 
