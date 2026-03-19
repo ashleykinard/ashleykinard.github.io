@@ -1,99 +1,112 @@
-/* Ensure the orange is the absolute primary color */
+/* 1. Define Variables */
 :root {
   --brand-orange: #FF9300;
   --brand-hover: #E68500;
+  --text-dark: #404040;
+  --border-light: #DDDDDD;
 }
 
-/* Force specific UI elements to the brand color */
-body .navbar-custom, 
-body .main-footer {
-  background-color: var(--brand-orange) !important;
-}
-
-/* Fix the broken Portfolio Cards */
-body .portfolio-grid {
-  display: flex;
-  flex-direction: column;
-  gap: 25px;
-  margin: 30px 0;
-}
-
-body .project-card {
-  background: #ffffff !important;
-  border: 1px solid #eeeeee !important;
-  border-left: 6px solid var(--brand-orange) !important;
-  padding: 25px !important;
-  border-radius: 4px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-}
-
-body .btn-link {
-  background: var(--brand-orange) !important;
-  color: #fff !important;
-  padding: 10px 20px !important;
-  border-radius: 4px;
-  font-weight: bold;
-  text-decoration: none !important;
-  display: inline-block;
-}
-
-body .tag {
-  background: #fff5e6 !important;
-  color: #404040 !important;
-  border: 1px solid #ffd9a3 !important;
-  padding: 2px 8px;
-  font-size: 0.75em;
-  text-transform: uppercase;
-}
-
-/* Specific compact style for the home page cards */
+/* 2. Fix Grid Layouts */
+body .portfolio-grid, 
 body .index-grid { 
-  display: grid; 
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
-  gap: 15px; /* Tighter gap */
-  margin: 20px 0; 
+  display: flex !important; 
+  flex-direction: column !important; 
+  gap: 20px !important; 
+  margin: 25px 0 !important;
+  width: 100% !important;
 }
 
-/* Reduced padding for cards used as skill boxes */
+/* Create the Desktop Grid */
+@media (min-width: 768px) {
+  body .index-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)) !important;
+    gap: 20px !important;
+  }
+}
+
+/* 3. Style the Cards */
+body .project-card, 
 body .skill-card { 
   background: #FFFFFF !important;
-  padding: 15px 18px !important; /* Slimmer padding: 15px top/bottom, 18px left/right */
+  padding: 18px 22px !important; 
   border: 1px solid var(--border-light) !important; 
-  border-left: 4px solid var(--brand-orange) !important; /* Slightly thinner brand line */
+  border-left: 6px solid var(--brand-orange) !important; 
   border-radius: 4px !important; 
-  height: 100%; /* Keeps boxes even in a row */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05) !important;
+  transition: all 0.2s ease-in-out !important;
+  display: block !important;
+  margin-bottom: 15px !important;
 }
 
-body .skill-card .project-title { 
-  font-size: 1.1em !important; 
-  margin-bottom: 8px !important; 
-  padding-bottom: 5px !important;
-  border-bottom: 1px solid #f0f0f0 !important; /* Subtle separator for skills */
+body .project-card:hover, 
+body .skill-card:hover { 
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1) !important;
+  transform: translateY(-2px) !important;
+  border-color: var(--brand-orange) !important;
 }
 
-/* --- Mobile Responsiveness --- */
-@media (max-width: 768px) {
-  body .index-grid {
-    grid-template-columns: 1fr !important; /* Stack boxes in a single column */
-    gap: 12px; /* Slightly tighter gap for mobile */
-  }
+/* 4. Typography inside Cards */
+body .project-title { 
+  margin: 0 0 10px 0 !important; 
+  color: var(--text-dark) !important; 
+  font-size: 1.25em !important; 
+  font-weight: 800 !important;
+  border-bottom: none !important;
+  padding: 0 !important;
+  line-height: 1.2 !important;
+}
 
-  body .skill-card {
-    padding: 12px 15px !important; /* Even tighter padding for small screens */
-  }
-  
-  body .project-title {
-    font-size: 1.05em !important; /* Prevent titles from wrapping awkwardly */
-  }
+body .project-desc { 
+  color: var(--text-dark) !important; 
+  font-size: 0.95em !important; 
+  line-height: 1.6 !important;
+  margin-bottom: 15px !important;
+}
 
-  /* Ensure the top navigation buttons don't overflow */
-  body .index-navigation {
-    flex-direction: column;
-    align-items: stretch;
-  }
-  
-  body .btn-link {
-    text-align: center;
-    width: 100%; /* Full width buttons are easier to tap with a thumb */
-  }
+/* 5. Skill Tags */
+body .tag-container { 
+  display: flex !important; 
+  flex-wrap: wrap !important; 
+  gap: 8px !important; 
+  margin-bottom: 10px !important;
+}
+
+body .tag { 
+  background: #FFF9F2 !important; 
+  color: var(--text-dark) !important; 
+  padding: 3px 10px !important; 
+  border: 1px solid #FFE0B3 !important;
+  border-radius: 3px !important; 
+  font-size: 0.7em !important; 
+  font-weight: 700 !important; 
+  text-transform: uppercase !important;
+  display: inline-block !important;
+}
+
+/* 6. Brand Buttons */
+body .btn-link { 
+  display: inline-block !important; 
+  background: var(--brand-orange) !important; 
+  color: #FFFFFF !important; 
+  padding: 10px 22px !important; 
+  border-radius: 4px !important; 
+  font-size: 0.85em !important; 
+  font-weight: bold !important; 
+  text-decoration: none !important; 
+  border: none !important;
+  box-shadow: none !important;
+}
+
+body .btn-link:hover { 
+  background: var(--brand-hover) !important;
+  color: #FFFFFF !important;
+}
+
+/* 7. Section Dividers */
+body .section-divider { 
+  border: 0 !important;
+  border-top: 2px solid var(--border-light) !important;
+  margin: 40px 0 !important;
+  display: block !important;
 }
