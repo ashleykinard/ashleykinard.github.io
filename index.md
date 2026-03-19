@@ -5,77 +5,78 @@ subtitle: Helping to bridge the gap between complex engineering and user success
 ---
 
 <div style="margin: 30px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <a href="/portfolio/" style="background: #2c3e50; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em;">📁 PORTFOLIO</a>
-  <a href="https://github.com/ashleykinard" target="_blank" rel="noopener noreferrer" style="background: #4a5568; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em;">💻 GITHUB</a>
-  <a href="https://linkedin.com/in/ashleykinard" target="_blank" rel="noopener noreferrer" style="background: #0077b5; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em;">👔 LINKEDIN</a>
-  <a href="mailto:ashleymkinard@gmail.com" style="background: #e2e8f0; color: #2d3748; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em;">✉️ EMAIL</a>
+  <a href="/portfolio/" class="btn-link">PORTFOLIO</a>
+  <a href="https://github.com/ashleykinard" target="_blank" rel="noopener noreferrer" class="btn-link" style="background: var(--text-main);">GITHUB</a>
+  <a href="https://linkedin.com/in/ashleykinard" target="_blank" rel="noopener noreferrer" class="btn-link" style="background: #0077b5;">LINKEDIN</a>
+  <a href="mailto:ashleymkinard@gmail.com" class="btn-link" style="background: var(--border-light); color: var(--text-main) !important;">EMAIL</a>
 </div>
 
----
+<hr class="section-hr">
 
 ## The Career
 
 I am a **Technical Writer** specializing in **Docs-as-Code** environments and **Developer Experience (DX)**. I transform raw engineering specs into high-quality documentation that reduces support overhead and accelerates user onboarding. I thrive in Agile teams, leveraging Git-based workflows and API testing tools to ensure technical accuracy at scale.
 
----
+<hr class="section-hr">
 
 ## The Stack
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(310px, 1fr)); gap: 20px; margin: 30px 0;">
   
-  <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; height: 100%;">
-    <h4 style="margin-top: 0; color: #2d3748; border-bottom: 2px solid #cbd5e0; padding-bottom: 8px; font-size: 0.95em;">📄 Markup & SSGs</h4>
-    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Markdown</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Hugo</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">YAML</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">HTML/CSS</span>
+  <div class="project-card">
+    <h4 class="project-title" style="font-size: 1.1em; border-bottom: 1px solid var(--border-light); padding-bottom: 8px;">Markup and SSGs</h4>
+    <div class="tag-container" style="margin-top: 12px;">
+      <span class="tag">Markdown</span>
+      <span class="tag">Hugo</span>
+      <span class="tag">YAML</span>
+      <span class="tag">HTML/CSS</span>
     </div>
   </div>
 
-  <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; height: 100%;">
-    <h4 style="margin-top: 0; color: #2d3748; border-bottom: 2px solid #cbd5e0; padding-bottom: 8px; font-size: 0.95em;">⚙️ Version Control & Workflows</h4>
-    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Git</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">GitHub</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">GitLab</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">PR/Code Review Processes</span>
+  <div class="project-card">
+    <h4 class="project-title" style="font-size: 1.1em; border-bottom: 1px solid var(--border-light); padding-bottom: 8px;">Version Control and Workflows</h4>
+    <div class="tag-container" style="margin-top: 12px;">
+      <span class="tag">Git</span>
+      <span class="tag">GitHub</span>
+      <span class="tag">GitLab</span>
+      <span class="tag">PR/Code Review Processes</span>
     </div>
   </div>
 
-  <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; height: 100%;">
-    <h4 style="margin-top: 0; color: #2d3748; border-bottom: 2px solid #cbd5e0; padding-bottom: 8px; font-size: 0.95em;">🔌 API Documentation</h4>
-    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">OpenAPI</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Postman</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">API Lifecycle Management</span>
+  <div class="project-card">
+    <h4 class="project-title" style="font-size: 1.1em; border-bottom: 1px solid var(--border-light); padding-bottom: 8px;">API Documentation</h4>
+    <div class="tag-container" style="margin-top: 12px;">
+      <span class="tag">OpenAPI</span>
+      <span class="tag">Postman</span>
+      <span class="tag">API Lifecycle Management</span>
     </div>
   </div>
 
-  <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; height: 100%;">
-    <h4 style="margin-top: 0; color: #2d3748; border-bottom: 2px solid #cbd5e0; padding-bottom: 8px; font-size: 0.95em;">💻 Developer Tools</h4>
-    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Command Line (Bash/Zsh)</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">VS Code</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">JSON</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">YAML</span>
+  <div class="project-card">
+    <h4 class="project-title" style="font-size: 1.1em; border-bottom: 1px solid var(--border-light); padding-bottom: 8px;">Developer Tools</h4>
+    <div class="tag-container" style="margin-top: 12px;">
+      <span class="tag">Command Line</span>
+      <span class="tag">VS Code</span>
+      <span class="tag">JSON</span>
+      <span class="tag">YAML</span>
     </div>
   </div>
 
-  <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; height: 100%;">
-    <h4 style="margin-top: 0; color: #2d3748; border-bottom: 2px solid #cbd5e0; padding-bottom: 8px; font-size: 0.95em;">📋 Project Management</h4>
-    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Jira</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Confluence</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Agile/Scrum Methodologies</span>
+  <div class="project-card">
+    <h4 class="project-title" style="font-size: 1.1em; border-bottom: 1px solid var(--border-light); padding-bottom: 8px;">Project Management</h4>
+    <div class="tag-container" style="margin-top: 12px;">
+      <span class="tag">Jira</span>
+      <span class="tag">Confluence</span>
+      <span class="tag">Agile/Scrum Methodologies</span>
     </div>
   </div>
 
-  <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; height: 100%;">
-    <h4 style="margin-top: 0; color: #2d3748; border-bottom: 2px solid #cbd5e0; padding-bottom: 8px; font-size: 0.95em;">✨ Content Quality & AI</h4>
-    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Vale (Style Linting)</span>
-      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Agent/LLM-assisted drafting</span>
+  <div class="project-card">
+    <h4 class="project-title" style="font-size: 1.1em; border-bottom: 1px solid var(--border-light); padding-bottom: 8px;">Content Quality and AI</h4>
+    <div class="tag-container" style="margin-top: 12px;">
+      <span class="tag">Vale</span>
+      <span class="tag">Style Linting</span>
+      <span class="tag">LLM Drafting</span>
     </div>
   </div>
 
@@ -83,21 +84,21 @@ I am a **Technical Writer** specializing in **Docs-as-Code** environments and **
 
 > **Documentation is a product.** I believe in a Docs-as-Code approach that integrates seamlessly into the engineering lifecycle. By using version control, automated style linting, and collaborative peer reviews, I ensure that documentation is as reliable, scalable, and tested as the software itself.
 
----
+<hr class="section-hr">
 
 ## The Process
 
 I view documentation as a high-value product, not an afterthought. My workflow includes:
 
-* **🔍 Exploration.** I don't just write about features--I use them. I test APIs and run scripts locally to find the "friction points". I ask questions with the end user in mind to discover what may otherwise get overlooked in the design process.
-* **🤝 Collaboration.** I aid and manage the peer review process through GitHub pull requests, ensuring that SMEs (Subject Matter Experts) verify technical logic before going to publish.
-* **⚖️ Governance.** I advocate for and strictly adhere to industry style guides (like Microsoft or Google) to maintain a consistent brand voice throughout the docs and product.
+* **Exploration.** I don't just write about features--I use them. I test APIs and run scripts locally to find the "friction points." I ask questions with the end user in mind to discover what may otherwise get overlooked in the design process.
+* **Collaboration.** I aid and manage the peer review process through GitHub pull requests, ensuring that SMEs (Subject Matter Experts) verify technical logic before going to publish.
+* **Governance.** I advocate for and strictly adhere to industry style guides (like Microsoft or Google) to maintain a consistent brand voice throughout the docs and product.
 
----
+<hr class="section-hr">
 
 ## The Human
 
-<img src="/assets/img/sassyjack.jpg" align="right" width="150" style="border-radius: 50%; margin-left: 20px;">
+<img src="/assets/img/sassyjack.jpg" align="right" width="150" style="border-radius: 50%; margin-left: 20px; border: 3px solid var(--border-light);">
 
 When I'm not refining Markdown or testing API endpoints, you'll likely find me engaged in "systems-thinking" hobbies:
 
