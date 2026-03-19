@@ -54,6 +54,7 @@ I thrive in Agile environments, leveraging Git-based workflows and API testing s
       <span class="tag">GraphQL</span>
       <span class="tag">AsyncAPI</span>
       <span class="tag">Postman</span>
+      <span class="tag">API Design</span>
       <span class="tag">API Lifecycle Management</span>
     </div>
   </div>
