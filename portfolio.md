@@ -11,6 +11,11 @@ The following are samples of documentation maintained for [Postman](https://www.
 * [Postman API Collection](https://www.postman.com/postman/postman-public-workspace/collection/i2uqzpp/postman-api)
 * [Postman API OAS](https://www.postman.com/postman/postman-public-workspace/specification/3001f4e4-5f9d-4bac-9f57-b2c4d483508f/file/1f4ad1bf-697f-4be6-a167-dc1f3cf2abf2?ctx=preview)
 
+Samples from the [Postman Docs](https://learning.postman.com/) include:
+
+* [Postman API Overview](https://github.com/ashleykinard/samples/blob/origin/postmanApiOverview.md) — Covers the basic features of the Postman API, including benefits of certain endpoints and availability by plan.
+* [Postman MCP Remote Server Setup Guide](https://github.com/ashleykinard/samples/blob/origin/postmanMcpRemoteServer.md) and [Postman MCP Local Server Setup Guide](https://github.com/ashleykinard/samples/blob/origin/postmanMcpLocalServer.md) — These docs cover how to get started with Postman's MCP server, which powers AI agents like Claude and VS Code to help users manage their Postman resources.
+
 ## Zoom
 
 The following are samples of documentation created or contributed to for [Zoom](https://zoom.us/):
@@ -37,7 +42,7 @@ The following are samples of work I edited or created to contribute to the [cPan
 * [Markdown](https://github.com/ashleykinard/samples/blob/origin/cPanel-LinkedNodesGuide)
 * [PDF](https://github.com/ashleykinard/samples/blob/origin/cPanel-LinkedNodesGuide.pdf)
 
-The creation of this particular guide was borne out of necessity to provide detailed information about cPanel's *Linked Nodes* feature to system administrators. The information was considered important, but did not have its place in any existing documentation, nor did it have a place in any related interface documentation.
+The creation of this guide was out of necessity to provide detailed information about cPanel's *Linked Nodes* feature to system administrators. The information was considered important, but didn't have its place in any existing documentation, nor did it have a place in any related interface documentation.
 
 ### WHM DNS Zone Manager
 
