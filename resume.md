@@ -5,9 +5,9 @@ permalink: /resume/
 subtitle: Technical Writer specializing in Developer Experience, API Documentation, and Systems Strategy.
 ---
 
-<div class="resume-header">
-  <p>Strategic Technical Writer with a track record of scaling documentation for global platforms. Expert in translating engineering logic into high-impact developer guides, OpenAPI references, and internal governance frameworks.</p>
-  <a href="https://github.com/ashleykinard/samples/blob/origin/AshleyKinard_Resume.pdf" class="btn-link" target="_blank">Download PDF Version</a>
+<div class="resume-header" style="text-align: center;">
+  <p style="text-align: left;">Strategic Technical Writer with a track record of scaling documentation for global platforms. Expert in translating engineering logic into high-impact developer guides, OpenAPI references, and internal governance frameworks.</p>
+  <a href="https://github.com/ashleykinard/samples/blob/origin/AshleyKinard_Resume.pdf" class="btn-link" target="_blank" style="display: inline-block; margin-top: 20px;">Download PDF Version</a>
 </div>
 
 <hr class="section-divider">
@@ -81,8 +81,23 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 * **Bachelor of Arts, Criminal Justice** — [Sam Houston State University](https://www.shsu.edu/), 2008
 
 <style>
-  .resume-header { margin-bottom: 30px; }
+  .resume-header { margin-bottom: 40px; }
   .no-border { border: none !important; background: transparent !important; padding: 10px 0 !important; }
   .project-card strong { color: #000; display: inline; }
   .project-desc { margin-top: 10px; line-height: 1.6; }
+
+  /* Centering and Hover Effects */
+  .resume-header .btn-link {
+    margin-left: auto;
+    margin-right: auto;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+
+  .resume-header .btn-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    filter: brightness(1.1);
+    text-decoration: none;
+  }
 </style>
