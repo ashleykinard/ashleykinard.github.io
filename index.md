@@ -106,4 +106,4 @@ When I'm not refining Markdown or testing API endpoints, you'll likely find me e
 * **Global Exploration.** I'm a frequent traveler that wants to see as much of the world as possible. Navigating new cities and cultures keeps me adaptable and reminds me why localization and accessibility matter in documentation.
 * **Coffee and Cats.** I am powered by well-crafted brews and supervised by my chief editor, **Jack** (pictured). He's a tough and demanding editor, but he keeps the morale high.
 
-I bring this same curiosity and collaborative spirit to every engineering team I join. I don't just write guides; I build the rulebook for your product's success.
+I bring this same curiosity and collaborative spirit to every engineering team I join. I don't just write guides--I build the rulebook for your product's success.
