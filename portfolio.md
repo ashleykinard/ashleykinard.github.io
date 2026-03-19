@@ -5,7 +5,7 @@ permalink: /portfolio/
 subtitle: A selection of API documentation, developer guides, and technical writing projects.
 ---
 
-The following is a curated look at my work, focusing on **Developer Experience (DX)**, **API Reference**, and **Systems Documentation**. 
+The following is a curated look at my work, focusing on **Developer Experience (DX)**, **API Reference**, and **Systems Documentation**.
 
 > **Note:** Unless otherwise specified, these links point to static snapshots of work completed during my tenure at these companies to preserve the documentation as it existed at the time of my contribution.
 
@@ -26,10 +26,11 @@ The following is a curated look at my work, focusing on **Developer Experience (
       Collaborated with the Postman API engineering team to refine the public API workspace. Focused on structural clarity in OpenAPI definitions and documented the MCP server (Remote/Local) which powers AI agents like Claude to help users manage Postman resources.
     </p>
     <div class="snapshot-links">
-      <a href="https://www.postman.com/postman/postman-public-workspace/collection/i2uqzpp/postman-api" class="btn-link" target="_blank">Public API Collection</a>
-      <a href="https://www.postman.com/postman/postman-public-workspace/specification/3001f4e4-5f9d-4bac-9f57-b2c4d483508f/file/1f4ad1bf-697f-4be6-a167-dc1f3cf2abf2?ctx=preview" class="btn-link" target="_blank">Public API OAS</a>
-      <a href="https://github.com/ashleykinard/samples/blob/origin/postmanApiOverview.md" class="btn-link" target="_blank">Overview Snapshot</a>
+      <a href="https://www.postman.com/postman/postman-public-workspace/collection/i2uqzpp/postman-api" class="btn-link" target="_blank">Public API Collection (Live)</a>
+      <a href="https://www.postman.com/postman/postman-public-workspace/specification/3001f4e4-5f9d-4bac-9f57-b2c4d483508f/file/1f4ad1bf-697f-4be6-a167-dc1f3cf2abf2?ctx=preview" class="btn-link" target="_blank">Public API OAS (Live)</a>
+      <a href="https://github.com/ashleykinard/samples/blob/origin/postmanApiOverview.md" class="btn-link" target="_blank">Postman API Overview</a>
       <a href="https://github.com/ashleykinard/samples/blob/origin/postmanMcpRemoteServer.md" class="btn-link" target="_blank">Remote MCP Guide</a>
+      <a href="https://github.com/ashleykinard/samples/blob/origin/postmanMcpLocalServer.md" class="btn-link" target="_blank">Local MCP Guide</a>
     </div>
   </div>
 
@@ -42,7 +43,7 @@ The following is a curated look at my work, focusing on **Developer Experience (
       Managed documentation for Zoom's API and webhooks. Reviewed engineering merge requests for technical accuracy and documented monthly releases for a global developer community.
     </p>
     <div class="snapshot-links">
-      <a href="https://developers.zoom.us/docs/api/" class="btn-link" target="_blank">View API Docs</a>
+      <a href="https://developers.zoom.us/docs/api/" class="btn-link" target="_blank">View API Docs (Live)</a>
     </div>
   </div>
 
