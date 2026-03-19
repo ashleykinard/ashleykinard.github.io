@@ -30,7 +30,7 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 
   <div class="project-card">
     <div class="tag-container">
-      <span class="tag">Zoom, Inc.</span> <span class="tag">May 2021 – April 2022</span>
+      <span class="tag">Zoom, Inc.</span> <span class="tag">May 2021 – Apr 2022</span>
     </div>
     <h3 class="project-title">Technical Writer</h3>
     <p class="project-desc">
