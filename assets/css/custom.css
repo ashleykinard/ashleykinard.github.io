@@ -1,0 +1,82 @@
+:root {
+  /* Site Theme Colors */
+  --brand-orange: #FF9300;     /* Navbar and Footer */
+  --text-main: #404040;        /* Main Body Text */
+  --link-blue: #008AFF;        /* Standard Links */
+  --link-hover: #006CFF;       /* Hover State */
+  --border-light: #DDDDDD;     /* Navbar Border style */
+  --bg-page: #FFFFFF;          /* Page Background */
+  
+  /* Portfolio UI Specifics */
+  --card-shadow: rgba(0, 0, 0, 0.06);
+  --transition: 0.25s ease-in-out;
+}
+
+/* --- Project Cards --- */
+.project-card { 
+  background: var(--bg-page);
+  padding: 25px; 
+  border: 1px solid var(--border-light); 
+  border-left: 5px solid var(--brand-orange); /* Matches Navbar/Footer */
+  border-radius: 4px; 
+  transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
+}
+
+.project-card:hover { 
+  border-color: var(--brand-orange);
+  box-shadow: 0 8px 20px var(--card-shadow); 
+  transform: translateY(-3px); 
+}
+
+/* --- Skill and Category Tags --- */
+.tag { 
+  background: #fdfdfd; 
+  color: var(--text-main); 
+  padding: 4px 10px; 
+  border: 1px solid var(--border-light);
+  border-radius: 2px; 
+  font-size: 0.75em; 
+  font-weight: 700; 
+  text-transform: uppercase; 
+  letter-spacing: 0.5px;
+  display: inline-block;
+}
+
+/* --- Typography Alignment --- */
+.project-title { 
+  margin: 0 0 10px 0; 
+  color: var(--text-main); 
+  font-weight: 800;
+  font-size: 1.4em;
+}
+
+.project-desc { 
+  color: var(--text-main); 
+  font-size: 0.95em;
+  line-height: 1.7; 
+  opacity: 0.9; /* Subtle softening of the dark grey */
+}
+
+/* --- Buttons --- */
+.btn-link { 
+  display: inline-block; 
+  background: var(--link-blue); 
+  color: #FFFFFF !important; 
+  padding: 10px 22px; 
+  border-radius: 4px; 
+  font-size: 0.85em; 
+  font-weight: bold; 
+  text-decoration: none !important; 
+  transition: background var(--transition);
+}
+
+.btn-link:hover { 
+  background: var(--link-hover); 
+}
+
+/* --- Horizontal Rules --- */
+.section-hr { 
+  margin: 40px 0; 
+  border: 0; 
+  border-top: 1px solid var(--border-light); 
+}

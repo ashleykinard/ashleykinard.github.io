@@ -1,27 +1,15 @@
 ---
 layout: page
 title: Portfolio
-subtitle: A selection of API documentation, developer guides, and technical writing projects.
 permalink: /portfolio/
+subtitle: A selection of API documentation, developer guides, and technical writing projects.
 ---
-
-<style>
-  .portfolio-grid { display: grid; grid-template-columns: 1fr; gap: 25px; margin-top: 20px; }
-  .project-card { border: 1px solid #e2e8f0; border-radius: 10px; padding: 25px; background: #ffffff; transition: 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); border-left: 5px solid #2c3e50; }
-  .project-card:hover { box-shadow: 0 10px 20px rgba(0,0,0,0.05); border-color: #cbd5e0; transform: translateY(-2px); }
-  .tag-container { margin-bottom: 12px; display: flex; flex-wrap: wrap; gap: 6px; }
-  .tag { background: #f1f5f9; color: #475569; padding: 3px 10px; border-radius: 4px; font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; border: 1px solid #e2e8f0; }
-  .project-title { margin: 0 0 10px 0; color: #1e293b; font-size: 1.4em; }
-  .project-desc { color: #475569; line-height: 1.6; margin-bottom: 20px; font-size: 0.95em; }
-  .btn-link { display: inline-block; background: #2c3e50; color: white !important; padding: 8px 18px; border-radius: 6px; text-decoration: none !important; font-size: 0.85em; font-weight: bold; transition: background 0.2s; }
-  .btn-link:hover { background: #4a5568; }
-  .section-hr { margin: 40px 0 30px 0; border: 0; border-top: 1px solid #eee; }
-</style>
 
 The following is a curated look at my work, focusing on **Developer Experience (DX)**, **API Reference**, and **Systems Documentation**.
 
-## API Documentation and Developer Experience
+<hr class="section-hr">
 
+## API Documentation and Developer Experience
 *High-level documentation for global developer ecosystems.*
 
 <div class="portfolio-grid">
@@ -50,8 +38,9 @@ The following is a curated look at my work, focusing on **Developer Experience (
 
 </div>
 
-## Technical Guides and Tutorials
+<hr class="section-hr">
 
+## Technical Guides and Tutorials
 *End-user and administrator-facing documentation for complex server software.*
 
 <div class="portfolio-grid">
@@ -80,8 +69,9 @@ The following is a curated look at my work, focusing on **Developer Experience (
 
 </div>
 
-## Process and Governance
+<hr class="section-hr">
 
+## Process and Governance
 *Templates and style guides to maintain documentation quality.*
 
 <div class="portfolio-grid">
