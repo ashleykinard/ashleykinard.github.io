@@ -82,6 +82,7 @@ I thrive in Agile environments, leveraging Git-based workflows and API testing s
     <div class="tag-container">
       <span class="tag">Vale</span>
       <span class="tag">Style Linting</span>
+      <span class="tag">Style Guide Authorship</span>
       <span class="tag">Copilot Pair-Writing</span>
       <span class="tag">Prompt Engineering</span>
       <span class="tag">AI-Assisted Review</span>
@@ -101,7 +102,7 @@ I view documentation as a high-value product, not an afterthought. My workflow i
 
 * **Active Exploration.** I don't just write about features--I use them. I test APIs and run scripts locally to find the "friction points." I ask questions with the end user in mind to discover what may otherwise get overlooked in the design process.
 * **Engineering Collaboration.** I integrate into the development lifecycle. I manage peer reviews through GitHub pull requests, ensuring that Subject Matter Experts (SMEs) verify technical logic before a single word is published.
-* **Scalable Governance.** I advocate for and strictly adhere to industry style guides (such as Microsoft or Google). By implementing automated style linting and Markdown templates, I maintain a consistent, authoritative brand voice across the product.
+* **Scalable Governance.** I bridge the gap between industry standards and team-specific needs. While I strictly adhere to established guides (like Microsoft or Google), I author and facilitate custom technical style guides tailored to engineering and documentation workflows. By leveraging automated style linting and Markdown templates, I ensure a consistent, authoritative brand voice that scales across the entire product.
 
 <hr class="section-hr">
 
