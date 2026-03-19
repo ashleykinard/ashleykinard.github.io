@@ -4,28 +4,30 @@ title: Ashley Kinard
 subtitle: Helping to bridge the gap between complex engineering and user success.
 ---
 
-<div style="margin: 30px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+<div class="index-navigation" style="margin: 30px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <a href="/portfolio/" class="btn-link">PORTFOLIO</a>
-  <a href="https://github.com/ashleykinard" target="_blank" rel="noopener noreferrer" class="btn-link" style="background: var(--text-main);">GITHUB</a>
-  <a href="https://linkedin.com/in/ashleykinard" target="_blank" rel="noopener noreferrer" class="btn-link" style="background: #0077b5;">LINKEDIN</a>
-  <a href="mailto:ashleymkinard@gmail.com" class="btn-link" style="background: var(--border-light); color: var(--text-main) !important;">EMAIL</a>
+  <a href="https://github.com/ashleykinard" target="_blank" rel="noopener noreferrer" class="btn-link" style="background: var(--text-dark) !important;">GITHUB</a>
+  <a href="https://linkedin.com/in/ashleykinard" target="_blank" rel="noopener noreferrer" class="btn-link" style="background: #0077b5 !important;">LINKEDIN</a>
+  <a href="mailto:ashleymkinard@gmail.com" class="btn-link" style="background: var(--border-light) !important; color: var(--text-dark) !important;">EMAIL</a>
 </div>
 
 <hr class="section-hr">
 
 ## The Career
 
-I am a **Technical Writer** specializing in **Docs-as-Code** environments and **Developer Experience (DX)**. I transform raw engineering specs into high-quality documentation that reduces support overhead and accelerates user onboarding. I thrive in Agile teams, leveraging Git-based workflows and API testing tools to ensure technical accuracy at scale.
+I am a **Technical Writer** specializing in **Docs-as-Code** methodologies and environments and **Developer Experience (DX)**. I bridge the gap between complex engineering requirements and user success by transforming raw technical specifications into intuitive, high-impact documentation.
+
+I thrive in Agile environments, leveraging Git-based workflows and API testing suites to ensure technical accuracy at scale. My goal is to reduce support overhead and accelerate developer onboarding through precision and clarity.
 
 <hr class="section-hr">
 
 ## The Stack
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(310px, 1fr)); gap: 20px; margin: 30px 0;">
+<div class="index-grid">
   
-  <div class="project-card">
-    <h4 class="project-title" style="font-size: 1.1em; border-bottom: 1px solid var(--border-light); padding-bottom: 8px;">Markup and SSGs</h4>
-    <div class="tag-container" style="margin-top: 12px;">
+  <div class="skill-card">
+    <h4 class="project-title">Markup and SSGs</h4>
+    <div class="tag-container">
       <span class="tag">Markdown</span>
       <span class="tag">Hugo</span>
       <span class="tag">YAML</span>
@@ -33,9 +35,9 @@ I am a **Technical Writer** specializing in **Docs-as-Code** environments and **
     </div>
   </div>
 
-  <div class="project-card">
-    <h4 class="project-title" style="font-size: 1.1em; border-bottom: 1px solid var(--border-light); padding-bottom: 8px;">Version Control and Workflows</h4>
-    <div class="tag-container" style="margin-top: 12px;">
+  <div class="skill-card">
+    <h4 class="project-title">Version Control and Workflows</h4>
+    <div class="tag-container">
       <span class="tag">Git</span>
       <span class="tag">GitHub</span>
       <span class="tag">GitLab</span>
@@ -43,18 +45,18 @@ I am a **Technical Writer** specializing in **Docs-as-Code** environments and **
     </div>
   </div>
 
-  <div class="project-card">
-    <h4 class="project-title" style="font-size: 1.1em; border-bottom: 1px solid var(--border-light); padding-bottom: 8px;">API Documentation</h4>
-    <div class="tag-container" style="margin-top: 12px;">
+  <div class="skill-card">
+    <h4 class="project-title">API Documentation</h4>
+    <div class="tag-container">
       <span class="tag">OpenAPI</span>
       <span class="tag">Postman</span>
       <span class="tag">API Lifecycle Management</span>
     </div>
   </div>
 
-  <div class="project-card">
-    <h4 class="project-title" style="font-size: 1.1em; border-bottom: 1px solid var(--border-light); padding-bottom: 8px;">Developer Tools</h4>
-    <div class="tag-container" style="margin-top: 12px;">
+  <div class="skill-card">
+    <h4 class="project-title">Developer Tools</h4>
+    <div class="tag-container">
       <span class="tag">Command Line</span>
       <span class="tag">VS Code</span>
       <span class="tag">JSON</span>
@@ -62,18 +64,18 @@ I am a **Technical Writer** specializing in **Docs-as-Code** environments and **
     </div>
   </div>
 
-  <div class="project-card">
-    <h4 class="project-title" style="font-size: 1.1em; border-bottom: 1px solid var(--border-light); padding-bottom: 8px;">Project Management</h4>
-    <div class="tag-container" style="margin-top: 12px;">
+  <div class="skill-card">
+    <h4 class="project-title">Project Management</h4>
+    <div class="tag-container">
       <span class="tag">Jira</span>
       <span class="tag">Confluence</span>
       <span class="tag">Agile/Scrum Methodologies</span>
     </div>
   </div>
 
-  <div class="project-card">
-    <h4 class="project-title" style="font-size: 1.1em; border-bottom: 1px solid var(--border-light); padding-bottom: 8px;">Content Quality and AI</h4>
-    <div class="tag-container" style="margin-top: 12px;">
+  <div class="skill-card">
+    <h4 class="project-title">Content Quality and AI</h4>
+    <div class="tag-container">
       <span class="tag">Vale</span>
       <span class="tag">Style Linting</span>
       <span class="tag">LLM Drafting</span>
@@ -90,9 +92,9 @@ I am a **Technical Writer** specializing in **Docs-as-Code** environments and **
 
 I view documentation as a high-value product, not an afterthought. My workflow includes:
 
-* **Exploration.** I don't just write about features--I use them. I test APIs and run scripts locally to find the "friction points." I ask questions with the end user in mind to discover what may otherwise get overlooked in the design process.
-* **Collaboration.** I aid and manage the peer review process through GitHub pull requests, ensuring that SMEs (Subject Matter Experts) verify technical logic before going to publish.
-* **Governance.** I advocate for and strictly adhere to industry style guides (like Microsoft or Google) to maintain a consistent brand voice throughout the docs and product.
+* **Active Exploration.** I don't just write about features--I use them. I test APIs and run scripts locally to find the "friction points." I ask questions with the end user in mind to discover what may otherwise get overlooked in the design process.
+* **Engineering Collaboration.** I integrate into the development lifecycle. I manage peer reviews through GitHub pull requests, ensuring that Subject Matter Experts (SMEs) verify technical logic before a single word is published.
+* **Scalable Governance.** I advocate for and strictly adhere to industry style guides (such as Microsoft or Google). By implementing automated style linting and Markdown templates, I maintain a consistent, authoritative brand voice across the product.
 
 <hr class="section-hr">
 

@@ -45,3 +45,55 @@ body .tag {
   font-size: 0.75em;
   text-transform: uppercase;
 }
+
+/* Specific compact style for the home page cards */
+body .index-grid { 
+  display: grid; 
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
+  gap: 15px; /* Tighter gap */
+  margin: 20px 0; 
+}
+
+/* Reduced padding for cards used as skill boxes */
+body .skill-card { 
+  background: #FFFFFF !important;
+  padding: 15px 18px !important; /* Slimmer padding: 15px top/bottom, 18px left/right */
+  border: 1px solid var(--border-light) !important; 
+  border-left: 4px solid var(--brand-orange) !important; /* Slightly thinner brand line */
+  border-radius: 4px !important; 
+  height: 100%; /* Keeps boxes even in a row */
+}
+
+body .skill-card .project-title { 
+  font-size: 1.1em !important; 
+  margin-bottom: 8px !important; 
+  padding-bottom: 5px !important;
+  border-bottom: 1px solid #f0f0f0 !important; /* Subtle separator for skills */
+}
+
+/* --- Mobile Responsiveness --- */
+@media (max-width: 768px) {
+  body .index-grid {
+    grid-template-columns: 1fr !important; /* Stack boxes in a single column */
+    gap: 12px; /* Slightly tighter gap for mobile */
+  }
+
+  body .skill-card {
+    padding: 12px 15px !important; /* Even tighter padding for small screens */
+  }
+  
+  body .project-title {
+    font-size: 1.05em !important; /* Prevent titles from wrapping awkwardly */
+  }
+
+  /* Ensure the top navigation buttons don't overflow */
+  body .index-navigation {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  body .btn-link {
+    text-align: center;
+    width: 100%; /* Full width buttons are easier to tap with a thumb */
+  }
+}
