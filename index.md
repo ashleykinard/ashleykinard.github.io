@@ -5,10 +5,10 @@ subtitle: Helping to bridge the gap between complex engineering and user success
 ---
 
 <div style="margin: 30px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <a href="/portfolio/" style="background: #2c3e50; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: 0.3s;">📁 PORTFOLIO</a>
-  <a href="https://github.com/ashleykinard" style="background: #4a5568; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: 0.3s;">💻 GITHUB</a>
-  <a href="https://linkedin.com/in/ashleykinard" style="background: #0077b5; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: 0.3s;">👔 LINKEDIN</a>
-  <a href="mailto:ashleymkinard@gmail.com" style="background: #e2e8f0; color: #2d3748; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em; transition: 0.3s;">✉️ EMAIL</a>
+  <a href="/portfolio/" style="background: #2c3e50; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em;">📁 PORTFOLIO</a>
+  <a href="https://github.com/ashleykinard" target="_blank" rel="noopener noreferrer" style="background: #4a5568; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em;">💻 GITHUB</a>
+  <a href="https://linkedin.com/in/ashleykinard" target="_blank" rel="noopener noreferrer" style="background: #0077b5; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em;">👔 LINKEDIN</a>
+  <a href="mailto:ashleymkinard@gmail.com" style="background: #e2e8f0; color: #2d3748; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em;">✉️ EMAIL</a>
 </div>
 
 ---
