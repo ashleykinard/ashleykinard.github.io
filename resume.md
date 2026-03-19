@@ -16,7 +16,7 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 
 <div class="portfolio-grid">
 
-  <div class="project-card">
+  <div class="project-card" markdown="1">
     <div class="tag-container">
       <span class="tag">Postman</span> <span class="tag">Jan 2023 – Present</span>
     </div>
@@ -28,7 +28,7 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
     </p>
   </div>
 
-  <div class="project-card">
+  <div class="project-card" markdown="1">
     <div class="tag-container">
       <span class="tag">Zoom, Inc.</span> <span class="tag">May 2021 – April 2022</span>
     </div>
@@ -40,7 +40,7 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
     </p>
   </div>
 
-  <div class="project-card">
+  <div class="project-card" markdown="1">
     <div class="tag-container">
       <span class="tag">cPanel, L.L.C.</span> <span class="tag">Dec 2016 – May 2021</span>
     </div>
@@ -59,15 +59,15 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 ## Skills and Expertise
 
 <div class="portfolio-grid">
-  <div class="project-card no-border">
+  <div class="project-card no-border" markdown="1">
     <strong>Technical.</strong>
     <p class="project-desc">Markdown, RESTful APIs, API Design, OpenAPI Specification (OAS), GraphQL, JSON, YAML, Perl, XML/HTML/CSS, Git, Git Bash, CLI, Agile, Vale (Styles-as-Code), Image Editing.</p>
   </div>
-  <div class="project-card no-border">
+  <div class="project-card no-border" markdown="1">
     <strong>Tools.</strong>
     <p class="project-desc">MS Visual Studio Code, AI Agents, Swagger Editor, Postman, GitHub, GitLab, Linux, BitBucket, Static Site Generators (Jekyll/Hugo), Atlassian JIRA & Confluence, Vale Linter, Screen Capture & Recording Tools.</p>
   </div>
-  <div class="project-card no-border">
+  <div class="project-card no-border" markdown="1">
     <strong>Soft Skills.</strong>
     <p class="project-desc">Communication, Software Documentation Strategy, Critical Analysis, Problem Analysis and Solving, Cross-functional Collaboration.</p>
   </div>
