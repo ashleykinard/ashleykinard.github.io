@@ -18,7 +18,7 @@ Markdown, RESTful APIs, API Design, OpenAPI Specification (OAS), GraphQL, JSON, 
 
 #### Tools
 
-MS Visual Studio Code, Swagger Editor, Postman, Git Version Control, GitHub, GitLab, Linux, BitBucket, Static Site Generators, Atlassian JIRA, Atlassian Confluence, Mac OS, Microsoft Windows OS, Adobe Photoshop, Camtasia, Pixelmator, Slack Software, Zoom Software
+MS Visual Studio Code, AI Agents, Swagger Editor, Postman, Git Version Control, GitHub, GitLab, Linux, BitBucket, Static Site Generators, Atlassian JIRA, Atlassian Confluence, Mac OS, Microsoft Windows OS, Adobe Photoshop, Camtasia, Pixelmator, Slack Software, Zoom Software
 
 ### Experience
 
@@ -27,7 +27,7 @@ MS Visual Studio Code, Swagger Editor, Postman, Git Version Control, GitHub, Git
 
 APRIL 2021 — PRESENT
 
-*Create and maintain developer documentation for Postman's API. Work closely with the Postman API engineering team to help ensure product is well-documented for its developer audience.*
+*Create and maintain developer documentation for Postman's API. Work closely with the Postman API engineering team to help ensure product is well-documented for its developer audience. Help maintain the Postman product documentation.*
 
 * Maintain and update Postman's current [public API collection](https://www.postman.com/postman/postman-public-workspace/collection/i2uqzpp/postman-api) and [OpenAPI definition](https://www.postman.com/postman/postman-public-workspace/api/72a32ca3-f06a-4e83-a933-2821a0e6616f/definition/024624cf-e622-4836-9d19-efd067f6cbdb?version=8843afee-0e46-497d-b6b4-d95870ba2a24&view=documentation).
 * Review the engineering team's work for documentation review, such as string reviews and internal documentation.
