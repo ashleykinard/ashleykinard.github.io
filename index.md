@@ -21,14 +21,65 @@ I am a **Technical Writer** specializing in **Docs-as-Code** environments and **
 
 ## The Stack
 
-| Category | Tools & Technologies |
-|:---|:---|
-| **Markup & SSGs** | Markdown, Hugo, Jekyll, YAML, HTML/CSS |
-| **Version Control** | Git, GitHub, GitLab (PR/code review processes) |
-| **API Documentation** | OpenAPI, Postman, API Lifecycle Management |
-| **Developer Tools** | Command Line (Bash/Zsh), VS Code, JSON, YAML |
-| **Project Management** | Jira, Confluence, Agile/Scrum Methodologies |
-| **Content Quality** | Vale (Style Linting), Agent and LLM-assisted drafting |
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(310px, 1fr)); gap: 20px; margin: 30px 0;">
+  
+  <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; height: 100%;">
+    <h4 style="margin-top: 0; color: #2d3748; border-bottom: 2px solid #cbd5e0; padding-bottom: 8px; font-size: 0.95em;">📄 Markup & SSGs</h4>
+    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Markdown</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Hugo</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">YAML</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">HTML/CSS</span>
+    </div>
+  </div>
+
+  <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; height: 100%;">
+    <h4 style="margin-top: 0; color: #2d3748; border-bottom: 2px solid #cbd5e0; padding-bottom: 8px; font-size: 0.95em;">⚙️ Version Control & Workflows</h4>
+    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Git</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">GitHub</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">GitLab</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">PR/Code Review Processes</span>
+    </div>
+  </div>
+
+  <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; height: 100%;">
+    <h4 style="margin-top: 0; color: #2d3748; border-bottom: 2px solid #cbd5e0; padding-bottom: 8px; font-size: 0.95em;">🔌 API Documentation</h4>
+    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">OpenAPI</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Postman</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">API Lifecycle Management</span>
+    </div>
+  </div>
+
+  <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; height: 100%;">
+    <h4 style="margin-top: 0; color: #2d3748; border-bottom: 2px solid #cbd5e0; padding-bottom: 8px; font-size: 0.95em;">💻 Developer Tools</h4>
+    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Command Line (Bash/Zsh)</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">VS Code</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">JSON</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">YAML</span>
+    </div>
+  </div>
+
+  <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; height: 100%;">
+    <h4 style="margin-top: 0; color: #2d3748; border-bottom: 2px solid #cbd5e0; padding-bottom: 8px; font-size: 0.95em;">📋 Project Management</h4>
+    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Jira</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Confluence</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Agile/Scrum Methodologies</span>
+    </div>
+  </div>
+
+  <div style="background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; height: 100%;">
+    <h4 style="margin-top: 0; color: #2d3748; border-bottom: 2px solid #cbd5e0; padding-bottom: 8px; font-size: 0.95em;">✨ Content Quality & AI</h4>
+    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px;">
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Vale (Style Linting)</span>
+      <span style="background: #edf2f7; padding: 4px 10px; border-radius: 4px; font-size: 0.8em; font-weight: 500;">Agent/LLM-assisted drafting</span>
+    </div>
+  </div>
+
+</div>
 
 > **Documentation is a product.** I believe in a Docs-as-Code approach that integrates seamlessly into the engineering lifecycle. By using version control, automated style linting, and collaborative peer reviews, I ensure that documentation is as reliable, scalable, and tested as the software itself.
 
@@ -52,6 +103,6 @@ When I'm not refining Markdown or testing API endpoints, you'll likely find me e
 
 * **Tabletop and Collaborative Gaming.** I love diving into complex game mechanics. Whether I'm navigating a campaign or learning a new rulebook, I view gaming as the ultimate exercise in collaborative problem-solving and clear communication.
 * **Global Exploration.** I'm a frequent traveler that wants to see as much of the world as possible. Navigating new cities and cultures keeps me adaptable and reminds me why localization and accessibility matter in documentation.
-* **Coffee & Cats:** I am powered by well-crafted brews and supervised by my chief editor, **Jack** (pictured). He's a tough and demanding editor, but he keeps the morale high.
+* **Coffee and Cats.** I am powered by well-crafted brews and supervised by my chief editor, **Jack** (pictured). He's a tough and demanding editor, but he keeps the morale high.
 
 I bring this same curiosity and collaborative spirit to every engineering team I join. I don't just write guides; I build the rulebook for your product's success.
