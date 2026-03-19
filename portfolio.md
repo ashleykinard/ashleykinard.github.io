@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Portfolio
+permalink: /portfolio/
 subtitle: Samples of the documentation created through the course of my tech writing journey.
 ---
 
