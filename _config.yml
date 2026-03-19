@@ -96,7 +96,8 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-css:
+# Add your custom CSS file to the global site-css list
+site-css:
   - "/assets/css/custom.css"
 
 navbar-col: "#FF9300"
