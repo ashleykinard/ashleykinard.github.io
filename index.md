@@ -24,7 +24,7 @@ I thrive in Agile environments, leveraging Git-based workflows and API testing s
 ## The Stack
 
 <div class="index-grid">
-  
+
   <div class="skill-card">
     <h4 class="project-title">Markup and SSGs</h4>
     <div class="tag-container">
