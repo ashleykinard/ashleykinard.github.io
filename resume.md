@@ -1,95 +1,88 @@
 ---
 layout: page
 title: Resume
-subtitle: Writer based in Houston, Texas seeking opportunities to help improve technical documentation, one file at a time.
+permalink: /resume/
+subtitle: Technical Writer specializing in Developer Experience, API Documentation, and Systems Strategy.
 ---
 
-[Email](mailto:ashleymkinard@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ashleykinard/) / [Portfolio](https://ashleykinard.pro/portfolio/)
+<div class="resume-header">
+  <p>Strategic Technical Writer with a track record of scaling documentation for global platforms. Expert in translating engineering logic into high-impact developer guides, OpenAPI references, and internal governance frameworks.</p>
+  <a href="https://github.com/ashleykinard/samples/blob/origin/AshleyKinard_Resume.pdf" class="btn-link" target="_blank">Download PDF Version</a>
+</div>
 
-### Key Skills
+<hr class="section-divider">
 
-#### Soft
+## Professional Experience
 
-Communication, Software Documentation, Critical Analysis, Problem Analysis and Solving, Collaboration
+<div class="portfolio-grid">
 
-#### Technical
+  <div class="project-card">
+    <div class="tag-container">
+      <span class="tag">Postman</span> <span class="tag">Jan 2023 – Present</span>
+    </div>
+    <h3 class="project-title">Technical Writer</h3>
+    <p class="project-desc">
+      <strong>Postman Docs.</strong> Author and maintain comprehensive documentation for the [Postman Docs center](https://learning.postman.com/docs/introduction/overview), covering all aspects of the frontend product and ensuring parity with the current product state. <br>
+      <strong>API Reference and DX.</strong> Optimized and maintain the Postman Public API Workspace and Postman API OAS to improve structural clarity and technical accuracy for global developers. <br>
+      <strong>Engineering Partnership.</strong> Partnered with API engineers to document the Postman MCP server; provided string reviews, internal doc audits, and detailed release notes for product changes and new features.
+    </p>
+  </div>
 
-Markdown, RESTful APIs, API Design, OpenAPI Specification (OAS), GraphQL, JSON, YAML, Perl, XML/HTML/CSS, Git, Git Bash, Command Line Interface, Agile, Video and Audio Recording/Editing
+  <div class="project-card">
+    <div class="tag-container">
+      <span class="tag">Zoom, Inc.</span> <span class="tag">May 2021 – April 2022</span>
+    </div>
+    <h3 class="project-title">Technical Writer</h3>
+    <p class="project-desc">
+      <strong>DevRel Documentation Leadership.</strong> Led the Developer Documentation department's OpenAPI and webhooks efforts, collaborating with Developer Relations to ensure documentation remained clear and accessible to the global developer community. <br>
+      <strong>Quality and Technical Review.</strong> Reviewed and approved engineering merge requests, verifying that schema formatting and API additions were technically accurate, clear, and user-centric. <br>
+      <strong>Cross-Functional Releases.</strong> Partnered with Product Managers and Marketing to announce API enhancements, creating release notes and high-level technical communications for monthly release cycles.
+    </p>
+  </div>
 
-#### Tools
+  <div class="project-card">
+    <div class="tag-container">
+      <span class="tag">cPanel, L.L.C.</span> <span class="tag">Dec 2016 – May 2021</span>
+    </div>
+    <h3 class="project-title">Senior Technical Writer</h3>
+    <p class="project-desc">
+      <strong>Agile Lifecycle and Scrum.</strong> Embedded in a Scrum team to document all product features, release notes, and [API documentation](https://api.docs.cpanel.net/). Actively provided user-driven feedback during feature planning and development discussions. <br>
+      <strong>Technical Governance.</strong> Reviewed code, developer merge requests, and localized strings to ensure quality. Worked with QA and engineering to verify technical accuracy before moving documentation to peer review. <br>
+      <strong>Support and Education.</strong> Partnered with Technical Support to resolve documentation gaps and created quick guides and tutorial video content to streamline the customer and training experience.
+    </p>
+  </div>
 
-MS Visual Studio Code, AI Agents, Swagger Editor, Postman, Git Version Control, GitHub, GitLab, Linux, BitBucket, Static Site Generators, Atlassian JIRA, Atlassian Confluence, Mac OS, Microsoft Windows OS, Adobe Photoshop, Camtasia, Pixelmator, Slack Software, Zoom Software
+</div>
 
-### Experience
+<hr class="section-divider">
 
-#### Technical Writer at [Postman](https://postman.com/)
-*Remote*
+## Skills and Expertise
 
-APRIL 2021 — PRESENT
+<div class="portfolio-grid">
+  <div class="project-card no-border">
+    <strong>Technical.</strong>
+    <p class="project-desc">Markdown, RESTful APIs, API Design, OpenAPI Specification (OAS), GraphQL, JSON, YAML, Perl, XML/HTML/CSS, Git, Git Bash, CLI, Agile, Vale (Styles-as-Code), Image Editing.</p>
+  </div>
+  <div class="project-card no-border">
+    <strong>Tools.</strong>
+    <p class="project-desc">MS Visual Studio Code, AI Agents, Swagger Editor, Postman, GitHub, GitLab, Linux, BitBucket, Static Site Generators (Jekyll/Hugo), Atlassian JIRA & Confluence, Vale Linter, Screen Capture & Recording Tools.</p>
+  </div>
+  <div class="project-card no-border">
+    <strong>Soft Skills.</strong>
+    <p class="project-desc">Communication, Software Documentation Strategy, Critical Analysis, Problem Analysis and Solving, Cross-functional Collaboration.</p>
+  </div>
+</div>
 
-*Create and maintain developer documentation for Postman's API. Work closely with the Postman API engineering team to help ensure product is well-documented for its developer audience. Help maintain the Postman product documentation.*
+<hr class="section-divider">
 
-* Maintain and update Postman's current [public API collection](https://www.postman.com/postman/postman-public-workspace/collection/i2uqzpp/postman-api) and [OpenAPI definition](https://www.postman.com/postman/postman-public-workspace/api/72a32ca3-f06a-4e83-a933-2821a0e6616f/definition/024624cf-e622-4836-9d19-efd067f6cbdb?version=8843afee-0e46-497d-b6b4-d95870ba2a24&view=documentation).
-* Review the engineering team's work for documentation review, such as string reviews and internal documentation.
-* Work with other engineering departments to review their API documentation and provide constructive feedback for improvement.
-* Review and improve the team's internal documentation for clarity and consistency.
-* Work closely with OpenAPI definition files to improve structure and clarity for developers.
-* Produce release notes for the release of changes or new endpoints to the Postman API.
-* Work with Postman API engineers to document the [Postman MCP server](https://learning.postman.com/docs/developer/postman-api/postman-mcp-server/overview).
-* Write documentation for the [Postman Docs center](https://learning.postman.com/docs/introduction/overview), which covers all aspects of the frontend product.
-* Perform routine documentation maintenance to ensure parity with the current state of the product.
+## Education and Training
 
-#### Technical Writer at [Zoom, Inc.](https://zoom.us/)
-*Remote*
+* **Technical Writing Certification** — [Bellevue College](https://www.bellevuecollege.edu/), 2016
+* **Bachelor of Arts, Criminal Justice** — [Sam Houston State University](https://www.shsu.edu/), 2008
 
-MAY 2021 — APRIL 2022
-
-*Create and edit developer-facing documentation for Zoom's various API offerings. Work with other writers, engineering, and developer advocates to document API improvements and enhancements for monthly releases.*
-
-* Led the Developer Documentation department API (OpenAPI) and webhooks documentation efforts.
-* Reviewed and improved the existing API documentation presentation and schema formatting.
-* Reviewed and approved engineering merge requests.
-* Ensure proposed changes or additions to the API documentation were technically accurate and clear.
-* Provided user-driven feedback during engineering review.
-* Created release notes and additional technical communications or documentation, including working with Product Managers and Marketing to announce changes.
-* Reviewed and improved existing developer documentation (non-API).
-* Collaborated with the developer relations team to continually improve our existing developer documentation to ensure that it was clear to its intended audience.
-
-#### Senior Technical Writer at [cPanel, L.L.C.](https://cpanel.net/)
-*Houston, Texas*
-
-DECEMBER 2016 — MAY 2021
-
-*Produce high-quality [documentation and knowledge base articles](https://docs.cpanel.net/) for the [cPanel & WHM](https://cpanel.net/products/) product.*
-
-* Worked with a Scrum team to document all product features, improvements, and changes each release cycle, including:
-  * Documenting features, release notes, and technical information for the product's customers.
-  * Creating quick guides for cPanel technical support and training teams.
-  * Reviewing code and new or modified strings for localized text.
-  * Reviewing [API documentation](https://api.docs.cpanel.net/) to ensure they meet cPanel's style guide standards.
-  * Reviewing developer merge requests to verify whether any changes require documentation review.
-  * Working closely with the developers and quality assurance analysts to ensure proposed documentation is technically accurate before documentation peer review.
-  * Providing user-driven feedback during development discussion and feature planning.
-* Worked with the technical support team to maintain and update any incorrect or outdated published documentation.
-* Reviewed and revise existing documentation to ensure they meet cPanel's style guide standards.
-* Collaborated and facilitated the review of cPanel's style guide on a regular basis.
-* Peer reviewed other writers' work to ensure it meets cPanel's style guide standards.
-* Created tutorial video content.
-
-### Freelance Projects
-
-#### Freelance Author at [Houston Press](https://www.houstonpress.com/)
-*Houston, Texas*
-
-2016
-
-* Developed "pitch" submissions for publication to editor for article approval.
-* Visited various dining locations in and around greater Houston area for article information.
-* Coordinate with restaurants photography of plates and meals, as well as interviews, as necessary.
-* Draft articles, edit, and present submissions to senior editors through Houston Press Foundation program.
-* Maintained and updated information on Houston Press website.
-
-### Education and Training
-
-* *Technical Writing Certification* - [Bellevue College](https://www.bellevuecollege.edu/), 2016
-* *Bachelor of Arts, Criminal Justice* - [Sam Houston State University](https://www.shsu.edu/), 2008
+<style>
+  .resume-header { margin-bottom: 30px; }
+  .no-border { border: none !important; background: transparent !important; padding: 10px 0 !important; }
+  .project-card strong { color: #000; display: inline; }
+  .project-desc { margin-top: 10px; line-height: 1.6; }
+</style>
