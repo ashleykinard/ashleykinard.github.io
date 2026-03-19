@@ -1,124 +1,103 @@
 ---
 layout: page
 title: Portfolio
+subtitle: A selection of API documentation, developer guides, and technical writing projects.
 permalink: /portfolio/
-subtitle: Samples of the documentation created through the course of my tech writing journey.
 ---
 
-## Postman
+<style>
+  .portfolio-grid { display: grid; grid-template-columns: 1fr; gap: 25px; margin-top: 20px; }
+  .project-card { border: 1px solid #e2e8f0; border-radius: 10px; padding: 25px; background: #ffffff; transition: 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); border-left: 5px solid #2c3e50; }
+  .project-card:hover { box-shadow: 0 10px 20px rgba(0,0,0,0.05); border-color: #cbd5e0; transform: translateY(-2px); }
+  .tag-container { margin-bottom: 12px; display: flex; flex-wrap: wrap; gap: 6px; }
+  .tag { background: #f1f5f9; color: #475569; padding: 3px 10px; border-radius: 4px; font-size: 0.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; border: 1px solid #e2e8f0; }
+  .project-title { margin: 0 0 10px 0; color: #1e293b; font-size: 1.4em; }
+  .project-desc { color: #475569; line-height: 1.6; margin-bottom: 20px; font-size: 0.95em; }
+  .btn-link { display: inline-block; background: #2c3e50; color: white !important; padding: 8px 18px; border-radius: 6px; text-decoration: none !important; font-size: 0.85em; font-weight: bold; transition: background 0.2s; }
+  .btn-link:hover { background: #4a5568; }
+  .section-hr { margin: 40px 0 30px 0; border: 0; border-top: 1px solid #eee; }
+</style>
 
-The following are samples of documentation maintained for [Postman](https://www.postman.com/):
+The following is a curated look at my work, focusing on **Developer Experience (DX)**, **API Reference**, and **Systems Documentation**.
 
-* [Postman API Collection](https://www.postman.com/postman/postman-public-workspace/collection/i2uqzpp/postman-api)
-* [Postman API OAS](https://www.postman.com/postman/postman-public-workspace/specification/3001f4e4-5f9d-4bac-9f57-b2c4d483508f/file/1f4ad1bf-697f-4be6-a167-dc1f3cf2abf2?ctx=preview)
+<hr class="section-hr">
 
-Samples from the [Postman Docs](https://learning.postman.com/) include:
+## API Documentation and Developer Experience
 
-* [Postman API Overview](https://github.com/ashleykinard/samples/blob/origin/postmanApiOverview.md) — Covers the basic features of the Postman API, including benefits of certain endpoints and availability by plan.
-* [Postman MCP Remote Server Setup Guide](https://github.com/ashleykinard/samples/blob/origin/postmanMcpRemoteServer.md) and [Postman MCP Local Server Setup Guide](https://github.com/ashleykinard/samples/blob/origin/postmanMcpLocalServer.md) — These docs cover how to get started with Postman's MCP server, which powers AI agents like Claude and VS Code to help users manage their Postman resources.
+*High-level documentation for global developer ecosystems.*
 
-## Zoom
+<div class="portfolio-grid">
 
-The following are samples of documentation created or contributed to for [Zoom](https://zoom.us/):
+  <div class="project-card">
+    <div class="tag-container">
+      <span class="tag">Postman</span> <span class="tag">OpenAPI</span> <span class="tag">JSON</span>
+    </div>
+    <h3 class="project-title">Postman Public API Reference</h3>
+    <p class="project-desc">
+      Collaborated with the Postman API engineering team to refine the public API workspace. Strong focus on structural clarity in OpenAPI definitions to ensure auto-generated documentation remained accurate and user- and machine-friendly.
+    </p>
+    <a href="https://www.postman.com/postman/workspace/postman-public-workspace/collection/12932820-8356948a-6b83-42e4-98c7-43f9a742886c" class="btn-link" target="_blank" rel="noopener">View Collection</a>
+  </div>
 
-### Developer Relations department style guide
+  <div class="project-card">
+    <div class="tag-container">
+      <span class="tag">Zoom</span> <span class="tag">Webhooks</span> <span class="tag">Technical Review</span>
+    </div>
+    <h3 class="project-title">Zoom Developer Documentation</h3>
+    <p class="project-desc">
+      Managed documentation for Zoom's API and webhooks. This involved reviewing engineering merge requests for technical accuracy and documenting monthly releases for a global developer community.
+    </p>
+    <a href="https://developers.zoom.us/docs/api/" class="btn-link" target="_blank" rel="noopener">View API Docs</a>
+  </div>
 
-* [PDF](https://github.com/ashleykinard/samples/blob/origin/DevRelStyleGuide.pdf)
+</div>
 
-This documentation was created at the request of the Zoom Developer Relations team to help facilitate a more unified voice, tone, and content format for articles.
+<hr class="section-hr">
 
-Additionally, the following documents were created to supplement the Developer Relations style guide:
+## Technical Guides and Tutorials
 
-* Article submission and review process — [PDF](https://github.com/ashleykinard/samples/blob/origin/ArticleSubmissionsReviewsProcesses.pdf)
-* Guide article template — [Markdown](https://github.com/ashleykinard/samples/blob/origin/GuideTemplate.md)
-* FAQ article template — [Markdown](https://github.com/ashleykinard/samples/blob/origin/FAQTemplate.md)
-* Troubleshooting article template — [Markdown](https://github.com/ashleykinard/samples/blob/origin/TroubleshootTemplate.md)
+*End-user and administrator-facing documentation for complex server software.*
 
-## cPanel & WHM
+<div class="portfolio-grid">
 
-The following are samples of work I edited or created to contribute to the [cPanel & WHM](https://www.cpanel.net) product:
+  <div class="project-card">
+    <div class="tag-container">
+      <span class="tag">cPanel</span> <span class="tag">Markdown</span> <span class="tag">Systems</span>
+    </div>
+    <h3 class="project-title">cPanel Linked Nodes Guide</h3>
+    <p class="project-desc">
+      Authored the primary documentation for server clustering features. This involved deep-diving into terminal scripts and translating engineering logic into task-oriented guides for system administrators.
+    </p>
+    <a href="https://docs.cpanel.net/knowledge-base/general-topics/linked-nodes-guide/" class="btn-link" target="_blank" rel="noopener">View Guide</a>
+  </div>
 
-### cPanel Linked Nodes Guide
+  <div class="project-card">
+    <div class="tag-container">
+      <span class="tag">CLI</span> <span class="tag">Automation</span> <span class="tag">Technical Reference</span>
+    </div>
+    <h3 class="project-title">Balance Linked Node Quotas Reference</h3>
+    <p class="project-desc">
+      Developed a technical reference for a command-line script used to automate resource balancing. Focused on clear parameter definitions and practical usage examples.
+    </p>
+    <a href="https://docs.cpanel.net/cpanel/scripts/the-balance_linked_node_quotas-script/" class="btn-link" target="_blank" rel="noopener">View Script Reference</a>
+  </div>
 
-* [Markdown](https://github.com/ashleykinard/samples/blob/origin/cPanel-LinkedNodesGuide)
-* [PDF](https://github.com/ashleykinard/samples/blob/origin/cPanel-LinkedNodesGuide.pdf)
+</div>
 
-The creation of this guide was out of necessity to provide detailed information about cPanel's *Linked Nodes* feature to system administrators. The information was considered important, but didn't have its place in any existing documentation, nor did it have a place in any related interface documentation.
+<hr class="section-hr">
 
-### WHM DNS Zone Manager
+## Process and Governance
 
-* [Markdown](https://github.com/ashleykinard/samples/blob/origin/DNSZoneManager)
-* [PDF](https://github.com/ashleykinard/samples/blob/origin/DNSZoneManager.pdf)
+*Templates and style guides to maintain documentation quality.*
 
-This document describes WHM's *DNS Zone Manager* interface. I created the version 86 document and iterated on it for work done in version 96.
-
-### cPanel Zone Manager
-
-* [Markdown](https://github.com/ashleykinard/samples/blob/origin/ZoneEditor)
-* [PDF](https://github.com/ashleykinard/samples/blob/origin/ZoneEditor.pdf)
-
-This document is the cPanel interface equivalent of WHM's [*DNS Zone Manager*](#dns-zone-manager), with slight variations and a different user audience.
-
-### cPanel Email Deliverability
-
-* [Markdown](https://github.com/ashleykinard/samples/blob/origin/EmailDeliverabilityincPanel)
-* [PDF](https://github.com/ashleykinard/samples/blob/origin/EmailDeliverabilityincPanel.pdf)
-
-This document details cPanel's *Email Deliverability* interface, which lets users troubleshoot and solve their mail-related DNS records.
-
-### cPanel Dynamic DNS
-
-* [Markdown](https://github.com/ashleykinard/samples/blob/origin/cPanel-DynamicDNS)
-* [PDF](https://github.com/ashleykinard/samples/blob/origin/cPanel-DynamicDNS.pdf)
-
-I revised this document after technical support received several tickets from cPanel users who were unclear what the intended purpose of this interface was. I worked with front and backend developers to better-clarify it and provide users with more clarity.
-
-### The balance_linked_node_quotas script documentation
-
-* [Markdown](https://github.com/ashleykinard/samples/blob/origin/balance_linked_nodes_quota-script)
-* [PDF](https://github.com/ashleykinard/samples/blob/origin/balance_linked_node_quotas-script.pdf)
-
-This script outlines the `balance_linked_node_quotas` script and how to use it. This script was created as part of the work for [cPanel linked server nodes](#cpanel-linked-nodes-guide).
-
-### The sync_child_accounts script documentation
-
-* [Markdown](https://github.com/ashleykinard/samples/blob/origin/sync-child-node-script)
-* [PDF](https://github.com/ashleykinard/samples/blob/origin/sync-child-node-script.pdf)
-
-A script document for the `sync_child_accounts` script, also tied to the work for [cPanel linked server nodes](#cpanel-linked-nodes-guide).
-
-### Guide to the Manage2 API
-
-* [Markdown](https://github.com/ashleykinard/samples/blob/origin/GuidetotheManage2API)
-* [PDF](https://github.com/ashleykinard/samples/blob/origin/GuidetotheManage2API.pdf)
-
-This document describes the Manage2 API and its usage. This document required me to perform a substantial overhaul from its previous iteration on our old Confluence-based documentation.
-
-### Manage2 API documentation
-
-* [Markdown](https://github.com/ashleykinard/samples/blob/origin/Manage2APIFunction-AddLicenses)
-* [PDF](https://github.com/ashleykinard/samples/blob/origin/Manage2APIFunctions-AddLicenses.pdf)
-
-This document outlines the Manage2 API *Add Licenses* function. Because the Manage2 API is not part of the cPanel & WHM product, I had to migrate this documentation to Hugo and create a specific format for its publication.
-
-### Guide to API Privilege Escalation
-
-* [Markdown](https://github.com/ashleykinard/samples/blob/origin/GuidetoAPIPrivilegeEscalation-AdminModule)
-* [PDF](https://github.com/ashleykinard/samples/blob/origin/DD-GuidetoAPIPrivilegeEscalation-TheAdminModuleMethod.pdf)
-
-This document is intended for higher-level developer audiences. The developer drafted the initial document and I applied our style guide to it to make it fit. This was originally published via Confluence, but recently moved to a Markdown format as part of a documentation transition to allow this document to live alongside our [API documentation](https://api.docs.cpanel.net/).
-
-The Markdown version of this file is the formatted version of this document intended for our API documentation space.
-
-### WHM API 1 function Confluence document
-
-* [PDF](https://github.com/ashleykinard/samples/blob/origin/Confluence-WHMAPI1Functions-uapi_cpanel.pdf)
-
-A sample of a Confluence-based `uapi_cpanel` API function document I created.
-
-## Other Sample Work
-
-The following are sample documents created as part of this professional portfolio:
-
-* [Mock Accounts API](https://ashleykinard.pro/sample-api/) - An OpenAPI mockup of an account management API document.
-* [Logging Your Shift in Workday](https://github.com/ashleykinard/samples/blob/origin/WorkdaySample.pdf) - A mockup of using the *Workday* software to log a shift.
+<div class="portfolio-grid">
+  <div class="project-card">
+    <div class="tag-container">
+      <span class="tag">Governance</span> <span class="tag">Markdown Templates</span>
+    </div>
+    <h3 class="project-title">Developer Relations Style Guide</h3>
+    <p class="project-desc">
+      Created Markdown templates (FAQs, troubleshooting, and article submissions) to unify the voice and tone of the Zoom Developer Relations team.
+    </p>
+  </div>
+</div>
