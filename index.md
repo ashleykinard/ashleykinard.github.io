@@ -28,7 +28,8 @@ I thrive in Agile environments, leveraging Git-based workflows and API testing s
   <div class="skill-card">
     <h4 class="project-title">Markup and SSGs</h4>
     <div class="tag-container">
-      <span class="tag">Markdown</span>
+      <span class="tag">Markdown/MDX</span>
+      <span class="tag">Fern</span>
       <span class="tag">Hugo</span>
       <span class="tag">YAML</span>
       <span class="tag">HTML/CSS</span>
@@ -41,6 +42,7 @@ I thrive in Agile environments, leveraging Git-based workflows and API testing s
       <span class="tag">Git</span>
       <span class="tag">GitHub</span>
       <span class="tag">GitLab</span>
+      <span class="tag">BitBucket</span>
       <span class="tag">PR/Code Review Processes</span>
     </div>
   </div>
@@ -49,6 +51,8 @@ I thrive in Agile environments, leveraging Git-based workflows and API testing s
     <h4 class="project-title">API Documentation</h4>
     <div class="tag-container">
       <span class="tag">OpenAPI</span>
+      <span class="tag">GraphQL</span>
+      <span class="tag">AsyncAPI</span>
       <span class="tag">Postman</span>
       <span class="tag">API Lifecycle Management</span>
     </div>
@@ -78,7 +82,10 @@ I thrive in Agile environments, leveraging Git-based workflows and API testing s
     <div class="tag-container">
       <span class="tag">Vale</span>
       <span class="tag">Style Linting</span>
-      <span class="tag">LLM Drafting</span>
+      <span class="tag">Copilot Pair-Writing</span>
+      <span class="tag">Prompt Engineering</span>
+      <span class="tag">AI-Assisted Review</span>
+      <span class="tag">LLM Orchestration</span>
     </div>
   </div>
 
