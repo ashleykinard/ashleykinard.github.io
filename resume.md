@@ -23,8 +23,8 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
     <h3 class="project-title">Technical Writer</h3>
     <p class="project-desc">
       <strong>Postman Docs.</strong> Author and maintain comprehensive documentation for the <a href="https://learning.postman.com/docs/introduction/overview" target="_blank" rel="noopener noreferrer">Postman Docs</a>, covering all aspects of the frontend product and ensuring parity with the current product state. <br>
-      <strong>API Reference and DX.</strong> Optimized and maintain the Postman Public API Workspace and Postman API OAS to improve structural clarity and technical accuracy for global developers. <br>
-      <strong>Engineering Partnership.</strong> Partnered with API engineers to document the Postman MCP server; provided string reviews, internal doc audits, and detailed release notes for product changes and new features.
+      <strong>API Reference and DX.</strong> Optimize and maintain the Postman API Collection and Postman API OpenAPI specification to improve structural clarity and technical accuracy for global developers. <br>
+      <strong>Engineering Partnership.</strong> Partner with API engineers to document the Postman MCP (Model Context Protocol) server; provided string reviews and UX messaging, internal doc audits, and detailed release notes for product changes and new features.
     </p>
   </div>
 

@@ -30,7 +30,6 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
     <div class="tag-container">
       <span class="tag">Markdown/MDX</span>
       <span class="tag">Fern</span>
-      <span class="tag">Hugo</span>
       <span class="tag">YAML</span>
       <span class="tag">HTML/CSS</span>
     </div>
@@ -54,15 +53,14 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
       <span class="tag">GraphQL</span>
       <span class="tag">AsyncAPI</span>
       <span class="tag">Postman</span>
-      <span class="tag">API Design</span>
-      <span class="tag">API Lifecycle Management</span>
+      <span class="tag">API Design & Lifecycle</span>
     </div>
   </div>
 
   <div class="skill-card">
     <h4 class="project-title">Developer Tools</h4>
     <div class="tag-container">
-      <span class="tag">Command Line</span>
+      <span class="tag">Command Line (CLI)</span>
       <span class="tag">VS Code</span>
       <span class="tag">JSON</span>
       <span class="tag">YAML</span>
@@ -74,7 +72,7 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
     <div class="tag-container">
       <span class="tag">Jira</span>
       <span class="tag">Confluence</span>
-      <span class="tag">Agile/Scrum Methodologies</span>
+      <span class="tag">Agile/Scrum</span>
     </div>
   </div>
 
@@ -84,7 +82,6 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
       <span class="tag">Vale</span>
       <span class="tag">Style Linting</span>
       <span class="tag">Style Guide Authorship</span>
-      <span class="tag">Copilot Pair-Writing</span>
       <span class="tag">Prompt Engineering</span>
       <span class="tag">AI-Assisted Review</span>
       <span class="tag">LLM Orchestration</span>
