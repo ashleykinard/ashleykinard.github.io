@@ -19,7 +19,7 @@ The following is a curated look at my work, focusing on **Developer Experience (
 
   <div class="project-card">
     <div class="tag-container">
-      <span class="tag">Postman</span> <span class="tag">OpenAPI</span> <span class="tag">JSON</span>
+      <span class="tag">Postman</span> <span class="tag">OpenAPI</span> <span class="tag">JSON</span> <span class="tag">YAML</span>
     </div>
     <h3 class="project-title">Postman API Reference</h3>
     <p class="project-desc">
@@ -44,6 +44,22 @@ The following is a curated look at my work, focusing on **Developer Experience (
     </p>
     <div class="snapshot-links">
       <a href="https://developers.zoom.us/docs/api/" class="btn-link" target="_blank">View API Docs (Live)</a>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="tag-container">
+      <span class="tag">cPanel & WHM</span> <span class="tag">APIs</span>
+    </div>
+    <h3 class="project-title">cPanel API Documentation</h3>
+    <p class="project-desc">
+      Managed documentation for Zoom's API and webhooks. Reviewed engineering merge requests for technical accuracy and documented monthly releases for a global developer community.
+    </p>
+    <div class="snapshot-links">
+      <a href="https://github.com/ashleykinard/samples/blob/origin/GuidetotheManage2API" class="btn-link" target="_blank">Manage2 API Guide</a>
+      <a href="https://github.com/ashleykinard/samples/blob/origin/cPanel-LinkedNodesGuide.pdf" class="btn-link" target="_blank">Manage2 API Guide PDF Snapshot</a>
+      <a href="https://github.com/ashleykinard/samples/blob/origin/Manage2APIFunctions-AddLicenses" class="btn-link" target="_blank">Manage2 Add Licenses API</a>
+      <a href="https://github.com/ashleykinard/samples/blob/origin/Manage2API%20Function-AddLicenses.pdf" class="btn-link" target="_blank">Manage2 Add Licenses PDF Snapshot</a>
     </div>
   </div>
 
