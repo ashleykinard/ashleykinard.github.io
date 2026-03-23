@@ -5,7 +5,7 @@ permalink: /portfolio/
 subtitle: A selection of API documentation, developer guides, and technical writing projects.
 ---
 
-The following is a curated look at my work, focusing on **Developer Experience (DX)**, **API Reference**, and **Systems Documentation**.
+The following is a curated look at my work, focusing on **Developer Experience (DX)**, **API Reference**, and **Systems Documentation**. For a complete list of portfolio work, check out my [samples repository](https://github.com/ashleykinard/samples).
 
 > **Note:** Unless otherwise specified, these links point to static snapshots of work completed during my tenure at these companies to preserve the documentation as it existed at the time of my contribution.
 
