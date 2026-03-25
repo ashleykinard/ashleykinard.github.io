@@ -7,7 +7,7 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 
 <div class="resume-header" style="text-align: center;">
   <p style="text-align: left;">Strategic Technical Writer with a track record of scaling documentation for global platforms. Expert in translating engineering logic into high-impact developer guides, OpenAPI references, and internal governance frameworks.</p>
-  <a href="https://github.com/ashleykinard/samples/blob/origin/AshleyKinard_Resume.pdf" class="btn-link" target="_blank" style="display: inline-block; margin-top: 20px;">Download PDF Version</a>
+  <a href="https://github.com/ashleykinard/samples/blob/origin/AshleyKinardResume.pdf" class="btn-link" target="_blank" style="display: inline-block; margin-top: 20px;">Download PDF Version</a>
 </div>
 
 <hr class="section-divider">
@@ -60,16 +60,16 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 
 <div class="portfolio-grid">
   <div class="project-card no-border">
-    <strong>Technical.</strong>
-    <p class="project-desc">Markdown, RESTful APIs, API Design, OpenAPI Specification (OAS), GraphQL, JSON, YAML, Perl, XML/HTML/CSS, Git, Git Bash, CLI, Agile, Vale (Styles-as-Code), Image Editing.</p>
+    <strong>Technical</strong>
+    <p class="project-desc">Markdown, RESTful APIs, API Design, OpenAPI Specification (OAS), GraphQL, JSON, YAML, Perl, XML/HTML/CSS, Git, Git Bash, CLI, Agile, Vale (Styles-as-Code), Image Editing</p>
   </div>
   <div class="project-card no-border">
-    <strong>Tools.</strong>
-    <p class="project-desc">MS Visual Studio Code, AI Agents, Swagger Editor, Postman, GitHub, GitLab, Linux, BitBucket, Static Site Generators (Jekyll/Hugo), Atlassian JIRA & Confluence, Vale Linter, Screen Capture & Recording Tools.</p>
+    <strong>Tools</strong>
+    <p class="project-desc">MS Visual Studio Code, AI Agents (Claude, GitHub CoPilot), Swagger Editor, Postman, GitHub, GitLab, Linux, BitBucket, Static Site Generators (Jekyll/Hugo), Atlassian JIRA & Confluence, Vale Linter, Screen Capture & Recording Tools</p>
   </div>
   <div class="project-card no-border">
-    <strong>Soft Skills.</strong>
-    <p class="project-desc">Communication, Software Documentation Strategy, Critical Analysis, Problem Analysis and Solving, Cross-functional Collaboration.</p>
+    <strong>Soft Skills</strong>
+    <p class="project-desc">Communication, Software Documentation Strategy, Critical Analysis, Problem Analysis and Solving, Cross-functional Collaboration</p>
   </div>
 </div>
 
