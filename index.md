@@ -90,16 +90,16 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
 
 </div>
 
-> **Documentation is a product.** I believe in Docs-as-Code to integrate seamlessly with the engineering lifecycle. By using version control, automated style linting, and peer reviews, I ensure that documentation is as reliable and tested as the software itself.
+> **Documentation is a product.** I believe in Docs-as-Code methodologies to integrate in the engineering lifecycle. Using version control, automated style linting, and peer reviews, I can ensure that the documentation is as well-tested and polished as the software itself.
 
 <hr class="section-hr">
 
 ## The Process
 
-I view documentation as a high-value product, not an afterthought. My workflow includes:
+I view documentation as a high-value product, not as an afterthought. My workflow includes:
 
-* **Active Exploration.** I not only write about features, I also use them. I test APIs and run scripts locally to find friction points. I ask questions with the end user in mind to discover what may otherwise get overlooked during the design process.
-* **Engineering Collaboration.** I integrate myself into the development lifecycle and work closely with developers. I manage peer reviews through GitHub pull requests, ensuring that Subject Matter Experts (SMEs) verify the technical accuracy of the docs before reaching publication.
+* **Active Exploration.** I not only write about features, I also use them. I test APIs and run scripts locally to find the points of friction. I ask questions with the end user in mind to discover what may otherwise get overlooked during the design process.
+* **Engineering Collaboration.** I integrate myself into the development lifecycle and work closely with developers. I manage peer reviews through Git-based pull requests, ensuring that Subject Matter Experts (SMEs) verify the technical accuracy of the docs before they reach publication.
 * **Scalable Governance.** I connect industry standards with team-specific needs. I follow established guides (like Microsoft or Google), but I also author and facilitate custom technical style guides around engineering and documentation workflows. Utilizing automated style linting and Markdown templates, I ensure a consistent brand voice is maintained across the entire product.
 
 <hr class="section-hr">
@@ -113,10 +113,10 @@ I view documentation as a high-value product, not an afterthought. My workflow i
   </div>
 </div>
 
-When I'm not deep in Markdown or API specifications, you'll find me engaged in systems-thinking hobbies, such as:
+When I'm not diving deep into Markdown or API specifications, you'll find me engaging in:
 
-* **Tabletop and Collaborative Gaming.** I love getting deep into complex game mechanics and rules. Whether navigating a campaign as a player or reading a rulebook, I view gaming as the ultimate exercise in collaborative problem-solving and clear communication.
-* **Global Exploration.** I'm a frequent traveler that wants to see as much of the world as possible. Visiting new countries and immersing in cultures keeps me adaptable and reminds me why localization and accessibility matter in documentation.
+* **Tabletop and Collaborative Gaming.** I love getting deep into complex game mechanics and rules. Whether navigating a campaign as a player or reading the rulebook, gaming is a wonderful exercise in collaborative problem-solving, communication, and engagement with users.
+* **Global Exploration.** I'm a frequent traveler that wants to see as much of the world as possible. Visiting new countries and immersing in cultures keeps me adaptable and reminds me why localization and accessibility truly matter in documentation.
 * **Coffee and Cats.** I am fueled by well-crafted brews and supervised by my editor-in-chief, **Jack** (pictured). He's a tough and demanding editor, but he keeps my morale high.
 
 I bring this same curiosity and the spirit of collaboration to every team. I don't just write guides and API docs, I also help build the rulebook for your product's success.
