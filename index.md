@@ -26,11 +26,12 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
 <div class="index-grid">
 
   <div class="skill-card">
-    <h4 class="project-title">Markup and SSGs</h4>
+    <h4 class="project-title">Documentation and Markup</h4>
     <div class="tag-container">
       <span class="tag">Markdown/MDX</span>
-      <span class="tag">Fern</span>
+      <span class="tag">Static Site Generators</span>
       <span class="tag">YAML</span>
+      <span class="tag">Content Strategy</span>
       <span class="tag">HTML/CSS</span>
     </div>
   </div>
@@ -38,11 +39,9 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
   <div class="skill-card">
     <h4 class="project-title">Version Control and Workflows</h4>
     <div class="tag-container">
-      <span class="tag">Git</span>
-      <span class="tag">GitHub</span>
-      <span class="tag">GitLab</span>
-      <span class="tag">BitBucket</span>
-      <span class="tag">PR/Code Review Processes</span>
+      <span class="tag">Git-based Workflows</span>
+      <span class="tag">Docs-as-Code</span>
+      <span class="tag">PR and Code Reviews</span>
     </div>
   </div>
 
@@ -73,17 +72,18 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
       <span class="tag">Jira</span>
       <span class="tag">Confluence</span>
       <span class="tag">Agile/Scrum</span>
+      <span class="tag">Engineering Collaboration</span>
     </div>
   </div>
 
   <div class="skill-card">
     <h4 class="project-title">Content Quality and AI</h4>
     <div class="tag-container">
-      <span class="tag">Vale</span>
       <span class="tag">Style Linting</span>
       <span class="tag">Style Guide Authorship</span>
+      <span class="tag">Vale</span>
       <span class="tag">Prompt Engineering</span>
-      <span class="tag">AI-Assisted Review</span>
+      <span class="tag">AI-Assisted Drafting and Review</span>
       <span class="tag">LLM Orchestration</span>
     </div>
   </div>
