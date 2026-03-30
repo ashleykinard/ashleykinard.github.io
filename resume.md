@@ -65,7 +65,7 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
   </div>
   <div class="project-card no-border">
     <strong>Tools</strong>
-    <p class="project-desc">MS Visual Studio Code, AI Agents (Claude, CoPilot), Swagger Editor, Postman, GitHub, GitLab, BitBucket, Static Site Generators (Fern/Jekyll/Hugo), JIRA amd Confluence, Vale Linter, Screen Capture & Recording Tools</p>
+    <p class="project-desc">MS Visual Studio Code, AI Agents (Claude, CoPilot), Swagger Editor, Postman, GitHub, GitLab, BitBucket, Static Site Generators (Fern/Jekyll/Hugo), JIRA amd Confluence, Screen Capture & Recording Tools</p>
   </div>
   <div class="project-card no-border">
     <strong>Soft Skills</strong>
