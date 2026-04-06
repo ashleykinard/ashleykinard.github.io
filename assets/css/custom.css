@@ -1,4 +1,4 @@
-/* 1. Define Variables */
+/* Variables */
 :root {
   --brand-orange: #FF9300;
   --brand-hover: #E68500;
@@ -6,7 +6,7 @@
   --border-light: #DDDDDD;
 }
 
-/* 2. Fix Grid Layouts */
+/* Grid Layouts */
 body .portfolio-grid, 
 body .index-grid { 
   display: flex !important; 
@@ -16,7 +16,7 @@ body .index-grid {
   width: 100% !important;
 }
 
-/* Create the Desktop Grid */
+/* Desktop Grid */
 @media (min-width: 768px) {
   body .index-grid {
     display: grid !important;
@@ -25,7 +25,7 @@ body .index-grid {
   }
 }
 
-/* 3. Style the Cards */
+/* Card Styles */
 body .project-card, 
 body .skill-card { 
   background: #FFFFFF !important;
@@ -46,7 +46,7 @@ body .skill-card:hover {
   border-color: var(--brand-orange) !important;
 }
 
-/* 4. Typography inside Cards */
+/* Card Typography */
 body .project-title { 
   margin: 0 0 10px 0 !important; 
   color: var(--text-dark) !important; 
@@ -64,7 +64,7 @@ body .project-desc {
   margin-bottom: 15px !important;
 }
 
-/* 5. Skill Tags */
+/* Skill Tags */
 body .tag-container { 
   display: flex !important; 
   flex-wrap: wrap !important; 
@@ -84,7 +84,7 @@ body .tag {
   display: inline-block !important;
 }
 
-/* 6. Brand Buttons */
+/* Brand Buttons */
 body .btn-link { 
   display: inline-block !important; 
   background: var(--brand-orange) !important; 
@@ -103,7 +103,7 @@ body .btn-link:hover {
   color: #FFFFFF !important;
 }
 
-/* 7. Section Dividers */
+/* Section Dividers */
 body .section-divider { 
   border: 0 !important;
   border-top: 2px solid var(--border-light) !important;
@@ -113,7 +113,7 @@ body .section-divider {
 
 .profile-container {
   position: relative;
-  float: right; /* Replaces align="right" */
+  float: right;
   width: 150px;
   height: 150px;
   margin-left: 20px;
@@ -154,20 +154,19 @@ body .section-divider {
   font-size: 14px;
 }
 
-/* --- Skills Section with Inherited Heading Font --- */
+/* --- Skills Section --- */
 
 .skills-container {
     margin: 1.5rem 0;
 }
 
 .skills-category-title {
-    /* Updated to match site headers */
     font-family: inherit; 
-    font-size: 1.05rem; /* Matches typical h3/h4 sizing */
+    font-size: 1.05rem;
     font-weight: 700;
     margin: 2rem 0 0.75rem 0;
     color: var(--text-dark);
-    text-transform: none; /* Removed uppercase to match standard header style */
+    text-transform: none; 
     letter-spacing: normal; 
     display: block;
 }
@@ -184,7 +183,6 @@ body .section-divider {
     border: 1px solid var(--border-light);
     border-radius: 4px;
     padding: 4px 12px;
-    /* Keeps the "technical" monospace look for the actual tools */
     font-family: "SFMono-Regular", Consolas, monospace;
     font-size: 0.82rem;
     color: var(--text-dark);
