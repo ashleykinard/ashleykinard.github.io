@@ -154,51 +154,6 @@ body .section-divider {
   font-size: 14px;
 }
 
-/* Container for the Skills Section */
-.skills-container {
-    max-width: 800px;
-    margin: 0 auto;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-}
-
-/* Category Headers */
-.skills-category-title {
-    font-size: 1.1rem;
-    font-weight: 700;
-    margin: 1.5rem 0 0.75rem 0;
-    color: #24292e; /* Dark slate */
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-}
-
-/* Flexbox wrapper for the pills */
-.skills-group {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 1.5rem;
-}
-
-/* Individual Skill Pills */
-.skill-pill {
-    background-color: #f6f8fa; /* Light grey background */
-    border: 1px solid #d1d5da;
-    border-radius: 6px;
-    padding: 4px 10px;
-    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
-    font-size: 0.85rem;
-    color: #444;
-    transition: all 0.2s ease;
-}
-
-/* Hover effect for interactivity */
-.skill-pill:hover {
-    background-color: #0366d6; /* Professional Blue */
-    color: #ffffff;
-    border-color: #0366d6;
-    cursor: default;
-}
-
 /* --- Skills Section with Brand Variables --- */
 
 .skills-container {
