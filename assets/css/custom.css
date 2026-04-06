@@ -159,16 +159,18 @@ body .tag {
 }
 
 /* Skill Pills (Skills Section Style) */
-.skill-pill {
-  background-color: transparent;
-  border: 1px solid var(--border-light);
-  border-radius: 4px;
-  padding: 4px 12px;
-  font-family: "SFMono-Regular", Consolas, monospace;
-  font-size: 0.82rem;
-  color: var(--text-dark);
-  transition: all 0.2s ease;
-  cursor: default;
+.skill-pill { 
+    background: #FFF9F2 !important; 
+    color: #1a1a1a !important;        /* Assuming --text-dark is a near-black */
+    padding: 3px 10px !important; 
+    border: 1px solid #FFE0B3 !important;
+    border-radius: 3px !important; 
+    font-size: 0.7em !important; 
+    font-weight: 700 !important; 
+    text-transform: uppercase !important;
+    display: inline-block !important;
+    margin: 4px 2px;
+    transition: all 0.2s ease;       /* Smooth color shift on hover */
 }
 
 .skill-pill:hover {
