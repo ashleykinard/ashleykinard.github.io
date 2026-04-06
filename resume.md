@@ -58,19 +58,47 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 
 ## Skills and Expertise
 
-<div class="portfolio-grid">
-  <div class="project-card no-border">
-    <strong>Technical</strong>
-    <p class="project-desc">Markdown, RESTful APIs, API Design, OpenAPI Specification (OAS), GraphQL, JSON, YAML, Perl, XML/HTML/CSS, Git, Git Bash, CLI, Agile, Styles-as-Code (Vale), Image Editing</p>
+<div class="skills-container">
+
+  <div class="skills-category-title">Core Documentation & Markup</div>
+  <div class="skills-group">
+    <span class="skill-pill">Markdown</span>
+    <span class="skill-pill">MDX</span>
+    <span class="skill-pill">Static Site Generators</span>
+    <span class="skill-pill">HTML/CSS</span>
+    <span class="skill-pill">YAML</span>
+    <span class="skill-pill">Content Strategy</span>
+    <span class="skill-pill">Docs-as-Code</span>
   </div>
-  <div class="project-card no-border">
-    <strong>Tools</strong>
-    <p class="project-desc">MS Visual Studio Code, AI Agents (Claude, CoPilot), Swagger Editor, Postman, GitHub, GitLab, BitBucket, Static Site Generators (Fern/Jekyll/Hugo), JIRA amd Confluence, Screen Capture & Recording Tools</p>
+
+  <div class="skills-category-title">API Ecosystem</div>
+  <div class="skills-group">
+    <span class="skill-pill">OpenAPI</span>
+    <span class="skill-pill">GraphQL</span>
+    <span class="skill-pill">AsyncAPI</span>
+    <span class="skill-pill">Postman</span>
+    <span class="skill-pill">API Design and Lifecycle</span>
+    <span class="skill-pill">API Testing</span>
   </div>
-  <div class="project-card no-border">
-    <strong>Soft Skills</strong>
-    <p class="project-desc">Communication, Software Documentation Strategy, Critical Analysis, Problem Analysis and Solving, Cross-functional Collaboration</p>
+
+  <div class="skills-category-title">Governance & AI Tools</div>
+  <div class="skills-group">
+    <span class="skill-pill">Automated Style Guides</span>
+    <span class="skill-pill">Claude</span>
+    <span class="skill-pill">Copilot</span>
+    <span class="skill-pill">Prompt Engineering</span>
+    <span class="skill-pill">LLM Orchestration</span>
+    <span class="skill-pill">AI-Assisted Review</span>
   </div>
+
+  <div class="skills-category-title">Engineering & Version Control</div>
+  <div class="skills-group">
+    <span class="skill-pill">Git</span>
+    <span class="skill-pill">PR Workflows</span>
+    <span class="skill-pill">VS Code</span>
+    <span class="skill-pill">Command Line (CLI)</span>
+  </div>
+
 </div>
 
 <hr class="section-divider">
