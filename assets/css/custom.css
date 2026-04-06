@@ -198,3 +198,56 @@ body .section-divider {
     transform: translateY(-1px);
     box-shadow: 0 4px 6px rgba(255, 147, 0, 0.15);
 }
+
+/* --- Education Container (The Wrapper) --- */
+.education-container {
+  display: flex !important;
+  flex-direction: column !important;
+  /* Matches the 20px gap from your .portfolio-grid */
+  gap: 20px !important; 
+  /* Matches the 25px vertical margin from your .index-grid */
+  margin: 25px 0 !important; 
+  width: 100% !important;
+}
+
+/* --- Education Item (The Individual Row Card) --- */
+.education-item {
+  background: #FFFFFF !important;
+  /* Matches .project-card padding exactly */
+  padding: 18px 22px !important; 
+  border: 1px solid var(--border-light) !important;
+  border-left: 6px solid var(--brand-orange) !important;
+  border-radius: 4px !important;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05) !important;
+  transition: all 0.2s ease-in-out !important;
+  display: block !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Persistent Hover Effect - Matches .project-card:hover */
+.education-item:hover {
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1) !important;
+  transform: translateY(-2px) !important;
+  border-color: var(--brand-orange) !important;
+}
+
+/* Internal Stack (The "Rows" of Info) */
+.education-header {
+  display: block !important;
+  margin-bottom: 8px !important; 
+}
+
+.education-title {
+  display: block !important; 
+  color: var(--text-dark) !important;
+  font-size: 1.25em !important;
+  font-weight: 800 !important;
+  line-height: 1.2 !important;
+}
+
+.education-date {
+  display: block !important; 
+  font-family: "SFMono-Regular", Consolas, monospace !important;
+  font-size: 0.9
+}

@@ -115,8 +115,31 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 
 ## Education and Training
 
-* **Technical Writing Certification** — [Bellevue College](https://www.bellevuecollege.edu/), 2016
-* **Bachelor of Arts, Criminal Justice** — [Sam Houston State University](https://www.shsu.edu/), 2008
+
+<div class="education-container">
+
+  <div class="education-item">
+    <div class="education-header">
+      <span class="education-title">Technical Writing Certification</span>
+      <span class="education-date">2016</span>
+    </div>
+    <div class="project-desc">
+      <a href="https://www.bellevuecollege.edu/" target="_blank">Bellevue College</a>
+    </div>
+  </div>
+
+  <div class="education-item">
+    <div class="education-header">
+      <span class="education-title">Bachelor of Arts, Criminal Justice</span>
+      <span class="education-date">2008</span>
+    </div>
+    <div class="project-desc">
+      <a href="https://www.shsu.edu/" target="_blank">Sam Houston State University</a>
+    </div>
+  </div>
+
+</div>
+
 
 <style>
   .resume-header { margin-bottom: 40px; }
