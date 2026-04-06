@@ -31,6 +31,7 @@ The following is a curated look at my work, focusing on **Developer Experience (
       <a href="https://github.com/ashleykinard/samples/blob/origin/postmanApiOverview.md" class="btn-link" target="_blank">Postman API Overview</a>
       <a href="https://github.com/ashleykinard/samples/blob/origin/postmanMcpRemoteServer.md" class="btn-link" target="_blank">Remote MCP Guide</a>
       <a href="https://github.com/ashleykinard/samples/blob/origin/postmanMcpLocalServer.md" class="btn-link" target="_blank">Local MCP Guide</a>
+      <a href="https://github.com/ashleykinard/samples/blob/origin/API%20Style%20Guide.md" class="btn-link" target="_blank">API Style Guide</a>
     </div>
   </div>
 
