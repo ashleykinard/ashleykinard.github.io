@@ -154,28 +154,28 @@ body .section-divider {
   font-size: 14px;
 }
 
-/* --- Skills Section with Brand Variables --- */
+/* --- Skills Section with Brand Variables (No Underline) --- */
 
 .skills-container {
     margin: 1.5rem 0;
 }
 
 .skills-category-title {
-    font-size: 0.9rem;
-    font-weight: 700;
-    margin: 1.5rem 0 0.6rem 0;
-    color: var(--text-dark); /* Using your variable */
+    font-size: 0.85rem;
+    font-weight: 800; /* Slightly bolder to compensate for no underline */
+    margin: 1.8rem 0 0.8rem 0;
+    color: var(--text-dark);
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    border-bottom: 1px solid var(--border-light); /* Using your variable */
-    padding-bottom: 4px;
+    letter-spacing: 0.08em; /* Added breathability */
+    display: block; 
+    /* border-bottom removed */
 }
 
 .skills-group {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
-    margin-bottom: 1.2rem;
+    margin-bottom: 0.5rem;
 }
 
 .skill-pill {
@@ -184,16 +184,16 @@ body .section-divider {
     border-radius: 4px;
     padding: 4px 12px;
     font-family: "SFMono-Regular", Consolas, monospace;
-    font-size: 0.85rem;
+    font-size: 0.82rem;
     color: var(--text-dark);
     transition: all 0.2s ease;
     cursor: default;
 }
 
-/* High-readability Hover State */
+/* On-Brand Hover State */
 .skill-pill:hover {
-    background-color: var(--brand-orange); /* Your brand color */
-    border-color: var(--brand-hover);     /* Your brand hover color */
-    color: #FFFFFF;                       /* White text for max contrast */
-    box-shadow: 0 2px 4px rgba(255, 147, 0, 0.2);
+    background-color: var(--brand-orange);
+    border-color: var(--brand-hover);
+    color: #FFFFFF; /* High contrast white text */
+    transform: translateY(-1px); /* Subtle lift for interactivity */
 }
