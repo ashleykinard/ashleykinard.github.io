@@ -59,8 +59,8 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 ## Skills and Expertise
 
 <div class="skills-container">
-
-  <div class="skills-category-title">Core Documentation & Markup</div>
+  
+  <div class="skills-category-title">Core Documentation and Markup</div>
   <div class="skills-group">
     <span class="skill-pill">Markdown</span>
     <span class="skill-pill">MDX</span>
@@ -81,22 +81,30 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
     <span class="skill-pill">API Testing</span>
   </div>
 
-  <div class="skills-category-title">Governance & AI Tools</div>
+  <div class="skills-category-title">Governance and AI Tools</div>
   <div class="skills-group">
     <span class="skill-pill">Automated Style Guides</span>
     <span class="skill-pill">Claude</span>
     <span class="skill-pill">Copilot</span>
     <span class="skill-pill">Prompt Engineering</span>
     <span class="skill-pill">LLM Orchestration</span>
-    <span class="skill-pill">AI-Assisted Review</span>
+    <span class="skill-pill">AI-Assisted Drafting and Review</span>
   </div>
 
-  <div class="skills-category-title">Engineering & Version Control</div>
+  <div class="skills-category-title">Engineering and Version Control</div>
   <div class="skills-group">
     <span class="skill-pill">Git</span>
-    <span class="skill-pill">PR Workflows</span>
+    <span class="skill-pill">PR and Review Workflows</span>
     <span class="skill-pill">VS Code</span>
     <span class="skill-pill">Command Line (CLI)</span>
+  </div>
+
+  <div class="skills-category-title">Collaboration and Management</div>
+  <div class="skills-group">
+    <span class="skill-pill">Jira</span>
+    <span class="skill-pill">Confluence</span>
+    <span class="skill-pill">Agile/Scrum</span>
+    <span class="skill-pill">Engineering Collaboration</span>
   </div>
 
 </div>
