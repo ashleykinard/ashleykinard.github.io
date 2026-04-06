@@ -154,21 +154,22 @@ body .section-divider {
   font-size: 14px;
 }
 
-/* --- Skills Section with Brand Variables (No Underline) --- */
+/* --- Skills Section with Inherited Heading Font --- */
 
 .skills-container {
     margin: 1.5rem 0;
 }
 
 .skills-category-title {
-    font-size: 0.85rem;
-    font-weight: 800; /* Slightly bolder to compensate for no underline */
-    margin: 1.8rem 0 0.8rem 0;
+    /* Updated to match site headers */
+    font-family: inherit; 
+    font-size: 1.05rem; /* Matches typical h3/h4 sizing */
+    font-weight: 700;
+    margin: 2rem 0 0.75rem 0;
     color: var(--text-dark);
-    text-transform: uppercase;
-    letter-spacing: 0.08em; /* Added breathability */
-    display: block; 
-    /* border-bottom removed */
+    text-transform: none; /* Removed uppercase to match standard header style */
+    letter-spacing: normal; 
+    display: block;
 }
 
 .skills-group {
@@ -183,6 +184,7 @@ body .section-divider {
     border: 1px solid var(--border-light);
     border-radius: 4px;
     padding: 4px 12px;
+    /* Keeps the "technical" monospace look for the actual tools */
     font-family: "SFMono-Regular", Consolas, monospace;
     font-size: 0.82rem;
     color: var(--text-dark);
@@ -194,6 +196,7 @@ body .section-divider {
 .skill-pill:hover {
     background-color: var(--brand-orange);
     border-color: var(--brand-hover);
-    color: #FFFFFF; /* High contrast white text */
-    transform: translateY(-1px); /* Subtle lift for interactivity */
+    color: #FFFFFF;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 6px rgba(255, 147, 0, 0.15);
 }
