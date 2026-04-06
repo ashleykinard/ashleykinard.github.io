@@ -111,8 +111,6 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
     <span class="skill-pill">Engineering Collaboration</span>
   </div>
 
-</div>
-
 <hr class="section-divider">
 
 ## Education and Training
