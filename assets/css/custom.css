@@ -1,4 +1,6 @@
-/* Variables */
+/* ==========================================================================
+   1. VARIABLES & GLOBAL
+   ========================================================================== */
 :root {
   --brand-orange: #FF9300;
   --brand-hover: #E68500;
@@ -6,9 +8,12 @@
   --border-light: #DDDDDD;
 }
 
-/* Grid Layouts */
+/* ==========================================================================
+   2. LAYOUT & GRIDS
+   ========================================================================== */
 body .portfolio-grid, 
-body .index-grid { 
+body .index-grid,
+.education-container { 
   display: flex !important; 
   flex-direction: column !important; 
   gap: 20px !important; 
@@ -16,7 +21,6 @@ body .index-grid {
   width: 100% !important;
 }
 
-/* Desktop Grid */
 @media (min-width: 768px) {
   body .index-grid {
     display: grid !important;
@@ -25,9 +29,19 @@ body .index-grid {
   }
 }
 
-/* Card Styles */
+body .section-divider { 
+  border: 0 !important;
+  border-top: 2px solid var(--border-light) !important;
+  margin: 40px 0 !important;
+  display: block !important;
+}
+
+/* ==========================================================================
+   3. CARDS (Projects, Skills, Education)
+   ========================================================================== */
 body .project-card, 
-body .skill-card { 
+body .skill-card,
+.education-item { 
   background: #FFFFFF !important;
   padding: 18px 22px !important; 
   border: 1px solid var(--border-light) !important; 
@@ -36,25 +50,48 @@ body .skill-card {
   box-shadow: 0 2px 5px rgba(0,0,0,0.05) !important;
   transition: all 0.2s ease-in-out !important;
   display: block !important;
+}
+
+/* Standard Spacing for Grid Cards */
+body .project-card, 
+body .skill-card {
   margin-bottom: 15px !important;
 }
 
+/* Education Specific Item Overrides */
+.education-item {
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Hover States */
 body .project-card:hover, 
-body .skill-card:hover { 
+body .skill-card:hover,
+.education-item:hover { 
   box-shadow: 0 8px 20px rgba(0,0,0,0.1) !important;
   transform: translateY(-2px) !important;
   border-color: var(--brand-orange) !important;
 }
 
-/* Card Typography */
-body .project-title { 
-  margin: 0 0 10px 0 !important; 
+/* ==========================================================================
+   4. TYPOGRAPHY & HEADERS
+   ========================================================================== */
+body .project-title,
+.education-title { 
   color: var(--text-dark) !important; 
   font-size: 1.25em !important; 
   font-weight: 800 !important;
+  line-height: 1.2 !important;
+}
+
+body .project-title {
+  margin: 0 0 10px 0 !important; 
   border-bottom: none !important;
   padding: 0 !important;
-  line-height: 1.2 !important;
+}
+
+.education-title {
+  display: block !important; 
 }
 
 body .project-desc { 
@@ -64,26 +101,20 @@ body .project-desc {
   margin-bottom: 15px !important;
 }
 
-/* Skill Tags */
-body .tag-container { 
-  display: flex !important; 
-  flex-wrap: wrap !important; 
-  gap: 8px !important; 
-  margin-bottom: 10px !important;
+.education-header {
+  display: block !important;
+  margin-bottom: 8px !important; 
 }
 
-body .tag { 
-  background: #FFF9F2 !important; 
-  color: var(--text-dark) !important; 
-  padding: 3px 10px !important; 
-  border: 1px solid #FFE0B3 !important;
-  border-radius: 3px !important; 
-  font-size: 0.7em !important; 
-  font-weight: 700 !important; 
-  text-transform: uppercase !important;
-  display: inline-block !important;
+.education-date {
+  display: block !important; 
+  font-family: "SFMono-Regular", Consolas, monospace !important;
+  font-size: 0.9em !important; /* Fixed truncated value */
 }
 
+/* ==========================================================================
+   5. BUTTONS, TAGS & PILLS
+   ========================================================================== */
 /* Brand Buttons */
 body .btn-link { 
   display: inline-block !important; 
@@ -103,14 +134,65 @@ body .btn-link:hover {
   color: #FFFFFF !important;
 }
 
-/* Section Dividers */
-body .section-divider { 
-  border: 0 !important;
-  border-top: 2px solid var(--border-light) !important;
-  margin: 40px 0 !important;
-  display: block !important;
+/* Tag Containers */
+body .tag-container,
+.skills-group { 
+  display: flex !important; 
+  flex-wrap: wrap !important; 
+  gap: 8px !important; 
 }
 
+body .tag-container { margin-bottom: 10px !important; }
+.skills-group { margin-bottom: 0.5rem; }
+
+/* Tags (Project Style) */
+body .tag { 
+  background: #FFF9F2 !important; 
+  color: var(--text-dark) !important; 
+  padding: 3px 10px !important; 
+  border: 1px solid #FFE0B3 !important;
+  border-radius: 3px !important; 
+  font-size: 0.7em !important; 
+  font-weight: 700 !important; 
+  text-transform: uppercase !important;
+  display: inline-block !important;
+}
+
+/* Skill Pills (Skills Section Style) */
+.skill-pill {
+  background-color: transparent;
+  border: 1px solid var(--border-light);
+  border-radius: 4px;
+  padding: 4px 12px;
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: 0.82rem;
+  color: var(--text-dark);
+  transition: all 0.2s ease;
+  cursor: default;
+}
+
+.skill-pill:hover {
+  background-color: var(--brand-orange);
+  border-color: var(--brand-hover);
+  color: #FFFFFF;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 6px rgba(255, 147, 0, 0.15);
+}
+
+.skills-category-title {
+  font-family: inherit; 
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 2rem 0 0.75rem 0;
+  color: var(--text-dark);
+  text-transform: none; 
+  letter-spacing: normal; 
+  display: block;
+}
+
+/* ==========================================================================
+   6. PROFILE COMPONENTS
+   ========================================================================== */
 .profile-container {
   position: relative;
   float: right;
@@ -134,7 +216,7 @@ body .section-divider {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.5); /* Dark tint on hover */
+  background: rgba(0, 0, 0, 0.5);
   border-radius: 50%;
   opacity: 0;
   transition: opacity 0.3s ease;
@@ -152,102 +234,4 @@ body .section-divider {
   font-family: sans-serif;
   font-weight: bold;
   font-size: 14px;
-}
-
-/* --- Skills Section --- */
-
-.skills-container {
-    margin: 1.5rem 0;
-}
-
-.skills-category-title {
-    font-family: inherit; 
-    font-size: 1.05rem;
-    font-weight: 700;
-    margin: 2rem 0 0.75rem 0;
-    color: var(--text-dark);
-    text-transform: none; 
-    letter-spacing: normal; 
-    display: block;
-}
-
-.skills-group {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 0.5rem;
-}
-
-.skill-pill {
-    background-color: transparent;
-    border: 1px solid var(--border-light);
-    border-radius: 4px;
-    padding: 4px 12px;
-    font-family: "SFMono-Regular", Consolas, monospace;
-    font-size: 0.82rem;
-    color: var(--text-dark);
-    transition: all 0.2s ease;
-    cursor: default;
-}
-
-/* On-Brand Hover State */
-.skill-pill:hover {
-    background-color: var(--brand-orange);
-    border-color: var(--brand-hover);
-    color: #FFFFFF;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 6px rgba(255, 147, 0, 0.15);
-}
-
-/* --- Education Container (The Wrapper) --- */
-.education-container {
-  display: flex !important;
-  flex-direction: column !important;
-  /* Matches the 20px gap from your .portfolio-grid */
-  gap: 20px !important; 
-  /* Matches the 25px vertical margin from your .index-grid */
-  margin: 25px 0 !important; 
-  width: 100% !important;
-}
-
-/* --- Education Item (The Individual Row Card) --- */
-.education-item {
-  background: #FFFFFF !important;
-  /* Matches .project-card padding exactly */
-  padding: 18px 22px !important; 
-  border: 1px solid var(--border-light) !important;
-  border-left: 6px solid var(--brand-orange) !important;
-  border-radius: 4px !important;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05) !important;
-  transition: all 0.2s ease-in-out !important;
-  display: block !important;
-  width: 100% !important;
-  box-sizing: border-box !important;
-}
-
-/* Persistent Hover Effect - Matches .project-card:hover */
-.education-item:hover {
-  box-shadow: 0 8px 20px rgba(0,0,0,0.1) !important;
-  transform: translateY(-2px) !important;
-  border-color: var(--brand-orange) !important;
-}
-
-/* Internal Stack (The "Rows" of Info) */
-.education-header {
-  display: block !important;
-  margin-bottom: 8px !important; 
-}
-
-.education-title {
-  display: block !important; 
-  color: var(--text-dark) !important;
-  font-size: 1.25em !important;
-  font-weight: 800 !important;
-  line-height: 1.2 !important;
-}
-
-.education-date {
-  display: block !important; 
-  font-family: "SFMono-Regular", Consolas, monospace !important;
-  font-size: 0.9
 }
