@@ -192,6 +192,16 @@ body .tag {
   display: block;
 }
 
+.skill-card .skills-category-title {
+  margin-top: 0 !important;      /* Removes the 2rem gap since it's now inside a box */
+  margin-bottom: 0px !important;
+  font-size: 1.1em !important;
+}
+
+.skill-card .skills-group {
+  padding-top: 20px !important;
+}
+
 /* ==========================================================================
    6. PROFILE COMPONENTS
    ========================================================================== */

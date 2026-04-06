@@ -58,63 +58,75 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 
 ## Skills and Expertise
 
-  <div class="skills-category-title">Core Documentation and Markup</div>
-  <div class="skills-group">
-    <span class="skill-pill">Markdown</span>
-    <span class="skill-pill">MDX</span>
-    <span class="skill-pill">Static Site Generators</span>
-    <span class="skill-pill">HTML/CSS</span>
-    <span class="skill-pill">YAML</span>
-    <span class="skill-pill">Content Strategy</span>
-    <span class="skill-pill">Docs-as-Code</span>
+<div class="index-grid">
+
+  <div class="skill-card">
+    <div class="skills-category-title">Core Documentation and Markup</div>
+    <div class="skills-group">
+      <span class="skill-pill">Markdown</span>
+      <span class="skill-pill">MDX</span>
+      <span class="skill-pill">Static Site Generators</span>
+      <span class="skill-pill">HTML/CSS</span>
+      <span class="skill-pill">Content Strategy</span>
+      <span class="skill-pill">Docs-as-Code</span>
+    </div>
   </div>
 
-  <div class="skills-category-title">API Ecosystem</div>
-  <div class="skills-group">
-    <span class="skill-pill">OpenAPI</span>
-    <span class="skill-pill">GraphQL</span>
-    <span class="skill-pill">AsyncAPI</span>
-    <span class="skill-pill">Postman</span>
-    <span class="skill-pill">API Design and Lifecycle</span>
-    <span class="skill-pill">API Testing</span>
+  <div class="skill-card">
+    <div class="skills-category-title">API Ecosystem</div>
+    <div class="skills-group">
+      <span class="skill-pill">OpenAPI</span>
+      <span class="skill-pill">GraphQL</span>
+      <span class="skill-pill">AsyncAPI</span>
+      <span class="skill-pill">Postman</span>
+      <span class="skill-pill">API Design and Lifecycle</span>
+      <span class="skill-pill">API Testing</span>
+    </div>
   </div>
 
-  <div class="skills-category-title">Engineering and Version Control</div>
-  <div class="skills-group">
-    <span class="skill-pill">Git</span>
-    <span class="skill-pill">Pull Request and Review Workflows</span>
-    <span class="skill-pill">VS Code</span>
-    <span class="skill-pill">Command Line (CLI)</span>
+  <div class="skill-card">
+    <div class="skills-category-title">Engineering and Version Control</div>
+    <div class="skills-group">
+      <span class="skill-pill">Git/Github</span>
+      <span class="skill-pill">Pull Request/Review Workflows</span>
+      <span class="skill-pill">CI/CD</span>
+    </div>
   </div>
 
-  <div class="skills-category-title">Development Environment</div>
-  <div class="skills-group">
-    <span class="skill-pill">VS Code</span>
-    <span class="skill-pill">Command Line (CLI)</span>
+  <div class="skill-card">
+    <div class="skills-category-title">Development Environment</div>
+    <div class="skills-group">
+      <span class="skill-pill">VS Code</span>
+      <span class="skill-pill">Command Line (CLI)</span>
+    </div>
   </div>
 
-  <div class="skills-category-title">Governance and AI Tools</div>
-  <div class="skills-group">
-    <span class="skill-pill">Automated Style Guides</span>
-    <span class="skill-pill">Claude</span>
-    <span class="skill-pill">Copilot</span>
-    <span class="skill-pill">Prompt Engineering</span>
-    <span class="skill-pill">LLM Orchestration</span>
-    <span class="skill-pill">AI-Assisted Drafting and Review</span>
+  <div class="skill-card">
+    <div class="skills-category-title">Governance and AI Tools</div>
+    <div class="skills-group">
+      <span class="skill-pill">Automated Style Guides</span>
+      <span class="skill-pill">Claude</span>
+      <span class="skill-pill">Copilot</span>
+      <span class="skill-pill">Prompt Engineering</span>
+      <span class="skill-pill">LLM Orchestration</span>
+      <span class="skill-pill">AI-Assisted Drafting and Review</span>
+    </div>
   </div>
 
-  <div class="skills-category-title">Collaboration and Management</div>
-  <div class="skills-group">
-    <span class="skill-pill">Jira</span>
-    <span class="skill-pill">Confluence</span>
-    <span class="skill-pill">Agile/Scrum</span>
-    <span class="skill-pill">Engineering Collaboration</span>
+  <div class="skill-card">
+    <div class="skills-category-title">Collaboration and Management</div>
+    <div class="skills-group">
+      <span class="skill-pill">Jira</span>
+      <span class="skill-pill">Confluence</span>
+      <span class="skill-pill">Agile/Scrum</span>
+    </div>
   </div>
+
+</div>
 
 <hr class="section-divider">
 
 ## Education and Training
-
 
 <div class="education-container">
 

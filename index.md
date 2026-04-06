@@ -29,8 +29,7 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
     <h4 class="project-title">Documentation and Markup</h4>
     <div class="tag-container">
       <span class="tag">Markdown/MDX</span>
-      <span class="tag">Static Site Generators</span>
-      <span class="tag">YAML</span>
+      <span class="tag">SSGs</span>
       <span class="tag">Content Strategy</span>
       <span class="tag">HTML/CSS</span>
     </div>
@@ -39,19 +38,20 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
   <div class="skill-card">
     <h4 class="project-title">Version Control and Workflows</h4>
     <div class="tag-container">
-      <span class="tag">Git-based Workflows</span>
       <span class="tag">Docs-as-Code</span>
-      <span class="tag">PR and Code Reviews</span>
+      <span class="tag">Git Workflows</span>
+      <span class="tag">CI/CD</span>
     </div>
   </div>
 
   <div class="skill-card">
     <h4 class="project-title">API Documentation</h4>
     <div class="tag-container">
+      <span class="tag">JSON/YAML</span>
       <span class="tag">OpenAPI</span>
+      <span class="tag">Postman</span>
       <span class="tag">GraphQL</span>
       <span class="tag">AsyncAPI</span>
-      <span class="tag">Postman</span>
       <span class="tag">API Design & Lifecycle</span>
     </div>
   </div>
@@ -59,10 +59,9 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
   <div class="skill-card">
     <h4 class="project-title">Developer Tools</h4>
     <div class="tag-container">
+      <span class="tag">Git/GitHub</span>
       <span class="tag">Command Line (CLI)</span>
       <span class="tag">VS Code</span>
-      <span class="tag">JSON</span>
-      <span class="tag">YAML</span>
     </div>
   </div>
 
@@ -70,9 +69,8 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
     <h4 class="project-title">Project Management</h4>
     <div class="tag-container">
       <span class="tag">Jira</span>
-      <span class="tag">Confluence</span>
       <span class="tag">Agile/Scrum</span>
-      <span class="tag">Engineering Collaboration</span>
+      <span class="tag">Confluence</span>
     </div>
   </div>
 
@@ -81,7 +79,6 @@ I work well in Agile environments, utilizing Git-based workflows and API testing
     <div class="tag-container">
       <span class="tag">Style Linting</span>
       <span class="tag">Style Guide Authorship</span>
-      <span class="tag">Vale</span>
       <span class="tag">Prompt Engineering</span>
       <span class="tag">AI-Assisted Drafting and Review</span>
       <span class="tag">LLM Orchestration</span>
