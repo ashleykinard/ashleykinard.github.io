@@ -19,7 +19,7 @@ The following is a curated look at my work, focusing on **Developer Experience (
 
   <div class="project-card">
     <div class="tag-container">
-      <span class="tag">Postman</span> <span class="tag">OpenAPI</span> <span class="tag">JSON</span> <span class="tag">YAML</span>
+      <span class="tag">Postman</span> <span class="tag">API</span> <span class="tag">Reference</span> <span class="tag">Guide</span>
     </div>
     <h3 class="project-title">Postman API Reference</h3>
     <p class="project-desc">
@@ -37,7 +37,7 @@ The following is a curated look at my work, focusing on **Developer Experience (
 
   <div class="project-card">
     <div class="tag-container">
-      <span class="tag">Zoom</span> <span class="tag">Webhooks</span> <span class="tag">Technical Review</span>
+      <span class="tag">Zoom</span> <span class="tag">API</span>
     </div>
     <h3 class="project-title">Zoom Developer Documentation</h3>
     <p class="project-desc">
@@ -50,7 +50,7 @@ The following is a curated look at my work, focusing on **Developer Experience (
 
   <div class="project-card">
     <div class="tag-container">
-      <span class="tag">cPanel & WHM</span> <span class="tag">APIs</span>
+      <span class="tag">cPanel</span> <span class="tag">API</span>
     </div>
     <h3 class="project-title">cPanel API Documentation</h3>
     <p class="project-desc">
