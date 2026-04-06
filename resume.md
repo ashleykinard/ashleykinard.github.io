@@ -7,7 +7,7 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 
 <div class="resume-header" style="text-align: center;">
   <p style="text-align: left;">Strategic Technical Writer with a track record of scaling documentation for global platforms. Expert in translating engineering logic into high-impact developer guides, OpenAPI references, and internal governance frameworks.</p>
-  <a href="https://github.com/ashleykinard/samples/blob/origin/AshleyKinardResume.pdf" class="btn-link" target="_blank" style="display: inline-block; margin-top: 20px;">Download PDF Version</a>
+  <a href="https://github.com/ashleykinard/samples/blob/origin/AshleyKinardResume.pdf" class="btn-link" target="_blank" style="display: inline-block; margin-top: 20px;">PDF Version</a>
 </div>
 
 <hr class="section-divider">
@@ -23,7 +23,7 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
     <h3 class="project-title">Technical Writer</h3>
     <p class="project-desc">
       <strong>Postman Docs.</strong> Author and maintain comprehensive documentation for the <a href="https://learning.postman.com/docs/introduction/overview" target="_blank" rel="noopener noreferrer">Postman Docs</a>, covering all aspects of the frontend product and ensuring parity with the current product state. <br>
-      <strong>API Reference and DX.</strong> Optimize and maintain the Postman API Collection and Postman API OpenAPI specification to improve structural clarity and technical accuracy for global developers. <br>
+      <strong>API Reference and DX.</strong> Optimize and maintain the Postman API Collection and Postman API OpenAPI specification improve structural clarity and technical accuracy for global developers. <br>
       <strong>Engineering Partnership.</strong> Partner with API engineers to document the Postman MCP (Model Context Protocol) server; provided string reviews and UX messaging, internal doc audits, and detailed release notes for product changes and new features.
     </p>
   </div>
@@ -81,6 +81,20 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
     <span class="skill-pill">API Testing</span>
   </div>
 
+  <div class="skills-category-title">Engineering and Version Control</div>
+  <div class="skills-group">
+    <span class="skill-pill">Git</span>
+    <span class="skill-pill">Pull Request and Review Workflows</span>
+    <span class="skill-pill">VS Code</span>
+    <span class="skill-pill">Command Line (CLI)</span>
+  </div>
+
+  <div class="skills-category-title">Development Environment</div>
+  <div class="skills-group">
+    <span class="skill-pill">VS Code</span>
+    <span class="skill-pill">Command Line (CLI)</span>
+  </div>
+
   <div class="skills-category-title">Governance and AI Tools</div>
   <div class="skills-group">
     <span class="skill-pill">Automated Style Guides</span>
@@ -89,14 +103,6 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
     <span class="skill-pill">Prompt Engineering</span>
     <span class="skill-pill">LLM Orchestration</span>
     <span class="skill-pill">AI-Assisted Drafting and Review</span>
-  </div>
-
-  <div class="skills-category-title">Engineering and Version Control</div>
-  <div class="skills-group">
-    <span class="skill-pill">Git</span>
-    <span class="skill-pill">PR and Review Workflows</span>
-    <span class="skill-pill">VS Code</span>
-    <span class="skill-pill">Command Line (CLI)</span>
   </div>
 
   <div class="skills-category-title">Collaboration and Management</div>
