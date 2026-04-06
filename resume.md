@@ -58,8 +58,6 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 
 ## Skills and Expertise
 
-<div class="skills-container">
-  
   <div class="skills-category-title">Core Documentation and Markup</div>
   <div class="skills-group">
     <span class="skill-pill">Markdown</span>
