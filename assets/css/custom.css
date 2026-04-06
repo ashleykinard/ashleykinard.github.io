@@ -199,38 +199,46 @@ body .section-divider {
     cursor: default;
 }
 
-/* --- New Skills Layout --- */
+/* --- Skills Section with Brand Variables --- */
+
 .skills-container {
     margin: 1.5rem 0;
 }
 
 .skills-category-title {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
     font-weight: 700;
-    margin: 1.2rem 0 0.5rem 0;
-    color: #444;
+    margin: 1.5rem 0 0.6rem 0;
+    color: var(--text-dark); /* Using your variable */
     text-transform: uppercase;
     letter-spacing: 0.05em;
+    border-bottom: 1px solid var(--border-light); /* Using your variable */
+    padding-bottom: 4px;
 }
 
 .skills-group {
     display: flex;
     flex-wrap: wrap;
-    gap: 6px;
-    margin-bottom: 1rem;
+    gap: 8px;
+    margin-bottom: 1.2rem;
 }
 
 .skill-pill {
-    background-color: #f6f8fa;
-    border: 1px solid #d1d5da;
+    background-color: transparent;
+    border: 1px solid var(--border-light);
     border-radius: 4px;
-    padding: 2px 8px;
-    font-family: monospace; /* Matches technical docs look */
-    font-size: 0.8rem;
-    color: #333;
-    transition: background 0.2s;
+    padding: 4px 12px;
+    font-family: "SFMono-Regular", Consolas, monospace;
+    font-size: 0.85rem;
+    color: var(--text-dark);
+    transition: all 0.2s ease;
+    cursor: default;
 }
 
+/* High-readability Hover State */
 .skill-pill:hover {
-    background-color: #e1e4e8;
+    background-color: var(--brand-orange); /* Your brand color */
+    border-color: var(--brand-hover);     /* Your brand hover color */
+    color: #FFFFFF;                       /* White text for max contrast */
+    box-shadow: 0 2px 4px rgba(255, 147, 0, 0.2);
 }
