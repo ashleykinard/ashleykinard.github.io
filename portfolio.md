@@ -54,7 +54,7 @@ The following is a curated look at my work, focusing on **Developer Experience (
     </div>
     <h3 class="project-title">cPanel API Documentation</h3>
     <p class="project-desc">
-      Documentation for cPanel's Manage2 API and a sample of the _Add Licenses_ API.
+      Documentation for cPanel's Manage2 API and a sample of the Add Licenses API.
     </p>
     <div class="snapshot-links">
       <a href="https://github.com/ashleykinard/samples/blob/origin/GuidetotheManage2API" class="btn-link" target="_blank">Manage2 API Guide</a>
