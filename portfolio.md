@@ -54,11 +54,11 @@ The following is a curated look at my work, focusing on **Developer Experience (
     </div>
     <h3 class="project-title">cPanel API Documentation</h3>
     <p class="project-desc">
-      Managed documentation for Zoom's API and webhooks. Reviewed engineering merge requests for technical accuracy and documented monthly releases for a global developer community.
+      Documentation for cPanel's Manage2 API and a sample of the _Add Licenses_ API.
     </p>
     <div class="snapshot-links">
       <a href="https://github.com/ashleykinard/samples/blob/origin/GuidetotheManage2API" class="btn-link" target="_blank">Manage2 API Guide</a>
-      <a href="https://github.com/ashleykinard/samples/blob/origin/cPanel-LinkedNodesGuide.pdf" class="btn-link" target="_blank">Manage2 API Guide PDF Snapshot</a>
+      <a href="https://github.com/ashleykinard/samples/blob/origin/GuidetotheManage2API.pdf" class="btn-link" target="_blank">Manage2 API Guide PDF Snapshot</a>
       <a href="https://github.com/ashleykinard/samples/blob/origin/Manage2APIFunctions-AddLicenses" class="btn-link" target="_blank">Manage2 Add Licenses API</a>
       <a href="https://github.com/ashleykinard/samples/blob/origin/Manage2API%20Function-AddLicenses.pdf" class="btn-link" target="_blank">Manage2 Add Licenses PDF Snapshot</a>
     </div>
