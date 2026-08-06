@@ -76,6 +76,20 @@ The following is a curated look at my work, focusing on **Developer Experience (
 
   <div class="project-card">
     <div class="tag-container">
+      <span class="tag">Postman</span> <span class="tag">Markdown</span> <span class="tag">Reference</span>
+    </div>
+    <h3 class="project-title">Postman Spec Hub Visual Editor</h3>
+    <p class="project-desc">
+      Authored the documentation for a visual editor feature for API specifications. Enables users to interactively edit their specifications without relying heavily on JSON or YAML for editing.
+    </p>
+    <div class="snapshot-links">
+      <a href="https://github.com/ashleykinard/samples/blob/origin/postmanSpecHubVisualEditor" class="btn-link" target="_blank">Markdown</a>
+      <a href="https://github.com/ashleykinard/samples/blob/origin/postmanSpecHubVisualEditor.pdf" class="btn-link" target="_blank">PDF Snapshot</a>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="tag-container">
       <span class="tag">cPanel</span> <span class="tag">Markdown</span> <span class="tag">Systems</span>
     </div>
     <h3 class="project-title">cPanel Linked Nodes Guide</h3>
