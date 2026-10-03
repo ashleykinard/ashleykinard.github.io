@@ -18,7 +18,7 @@ subtitle: Technical Writer specializing in Developer Experience, API Documentati
 
   <div class="project-card">
     <div class="tag-container">
-      <span class="tag">Postman</span> <span class="tag">Apr 2022 – Present</span>
+      <span class="tag">Postman</span> <span class="tag">Apr 2022 – Oct 2026</span>
     </div>
     <h3 class="project-title">Technical Writer</h3>
     <p class="project-desc">
