@@ -26,7 +26,7 @@ The following is a curated look at my work, focusing on **Developer Experience (
       Collaborated with the Postman API engineering team to refine the public API workspace. Focused on structural clarity in OpenAPI definitions and documented the MCP server (Remote/Local) which powers AI agents like Claude to help users manage Postman resources.
     </p>
     <div class="snapshot-links">
-      <a href="https://github.com/ashleykinard/samples/blob/origin/postman-api-oas-1.47.0.yml" class="btn-link" target="_blank">Public API OAS (v1.47.0)</a>
+      <a href="https://raw.githubusercontent.com/ashleykinard/samples/refs/heads/origin/postman-api-oas-1.47.0.yml" class="btn-link" target="_blank">Public API OAS (v1.47.0)</a>
       <a href="https://github.com/ashleykinard/samples/blob/origin/postmanApiOverview.md" class="btn-link" target="_blank">Postman API Overview</a>
       <a href="https://github.com/ashleykinard/samples/blob/origin/postmanMcpRemoteServer.md" class="btn-link" target="_blank">Remote MCP Guide</a>
       <a href="https://github.com/ashleykinard/samples/blob/origin/postmanMcpLocalServer.md" class="btn-link" target="_blank">Local MCP Guide</a>
